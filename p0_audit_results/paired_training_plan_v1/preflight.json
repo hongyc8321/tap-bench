@@ -1,0 +1,35 @@
+{
+  "status": "plan_only_not_rendered",
+  "count": 500,
+  "seed": 73191,
+  "gt_sha256": "45eb0a729bd0cbc7712eec975caa837b2c30235a883b6ba3d0a497f6e1442986",
+  "probe_speeds": [
+    "0.5",
+    "1.0",
+    "2.0",
+    "4.0",
+    "6.0",
+    "8.0"
+  ],
+  "strict_exclusion_radius": "0.10",
+  "paired_base_fields_verified": true,
+  "total_sampling_weight": {
+    "A0": 500,
+    "A1": 1319,
+    "A2": 500,
+    "A3": 1319
+  },
+  "caveats": [
+    "Training pipeline does not yet consume sampling_weight.",
+    "Directions are counterclockwise only, matching original main ablation; no bidirectional claim.",
+    "Parameter separation does not establish pixel-level train/test independence.",
+    "No new videos or model training performed."
+  ],
+  "files_sha256": {
+    "A1.csv": "bf5ebc594886c3f1eb0080188a7ca85ac214707d3e22ba0413957b82c6376d28",
+    "A2.csv": "7cc06397ced697569cedcc8eefc3d71928a7474da486bf300ed599faab98dc60",
+    "A0.csv": "eff5a56dd171429d54d58d5c371c8626bfc864cbc76ae510447cf891f07e9dbc",
+    "A3.csv": "44c6c7e3e032e53682694bbaeafc11b34f5d8ffacf8dc5f4f0fb4a6cf05de638",
+    "base_cells.csv": "a53199d2587d12976e53548c00deb10593a9b55c434990850f5e6623e9a8918a"
+  }
+}

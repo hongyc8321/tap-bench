@@ -1,0 +1,20 @@
+[
+  {
+    "arm": "formal_A0",
+    "input_n": 141,
+    "accepted_n": 66,
+    "coverage": 0.46808510638297873,
+    "error_n": 43,
+    "conditional_error_rate": 0.6515151515151515,
+    "unresolved_n": 75,
+    "completion_lower_bound": 0.3049645390070922,
+    "completion_upper_bound": 0.8368794326241135,
+    "statuses": {
+      "temporal_unresolved": 48,
+      "accepted_apparent_direction": 66,
+      "low_signal": 11,
+      "temporal_bidirectional_candidate": 2,
+      "geometry_direction_unstable": 14
+    }
+  }
+]

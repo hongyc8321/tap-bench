@@ -1,0 +1,4 @@
+a grayscale wheel with 8 spokes rotating counterclockwise at exactly 4.43 revolutions per second, static camera, white background
+a grayscale wheel with 8 spokes rotating counterclockwise at exactly 4.43 revolutions per second, static camera, white background
+a grayscale wheel with 6 spokes rotating counterclockwise at exactly 1.66 revolutions per second, static camera, white background
+a grayscale wheel with 6 spokes rotating counterclockwise at exactly 1.66 revolutions per second, static camera, white background

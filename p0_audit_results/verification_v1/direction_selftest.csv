@@ -1,0 +1,5 @@
+﻿category,estimate,expected,passed
+wheel,-0.500244140625,-0.5,True
+wheel,0.500244140625,0.5,True
+grating,-8.02734375,-8.0,True
+grating,8.02734375,8.0,True

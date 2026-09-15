@@ -1,0 +1,40 @@
+{
+  "status": "completed",
+  "arguments": {
+    "pretrained_model_name_or_path": "/home/ubuntu/hf_cache/hub/models--THUDM--CogVideoX-2b/snapshots/1137dacfc2c9c012bed6a0793f4ecf2ca8e7ba01",
+    "revision": "1137dacfc2c9c012bed6a0793f4ecf2ca8e7ba01",
+    "instance_data_root": "/home/ubuntu/nkst_smoke_v2/data/A0",
+    "caption_column": "prompts.txt",
+    "video_column": "videos.txt",
+    "height": 480,
+    "width": 720,
+    "fps": 8,
+    "max_num_frames": 49,
+    "rank": 64,
+    "lora_alpha": 128.0,
+    "learning_rate": 0.0001,
+    "max_train_steps": 2,
+    "seed": 42,
+    "train_batch_size": 1,
+    "gradient_accumulation_steps": 4,
+    "mixed_precision": "fp16",
+    "dataloader_num_workers": 0,
+    "resume_from_checkpoint": null
+  },
+  "trainer_sha256": "c9bde0e0be4eef5072456b025b07593925cdff70f635dd259787d5db871c19cf",
+  "versions": {
+    "torch": "2.5.1+cu124",
+    "diffusers": "0.40.0",
+    "transformers": "5.16.1"
+  },
+  "dataset_rows": 2,
+  "num_processes": 1,
+  "data_list_hashes": {
+    "prompts.txt": "23afd128eb3b6f9cf7fdf592633fb64ee39ad720870583692358211811c686a7",
+    "videos.txt": "34802728454c61fc6b76b49ebf7d50c8ed1f9863ad7e0947d372c238b68b03cc"
+  },
+  "global_step": 2,
+  "final_weight_hashes": {
+    "pytorch_lora_weights.safetensors": "75703fa881b7a7f76234677d3a04aa486dd6e49faabf5455a4afde7da7ef9487"
+  }
+}

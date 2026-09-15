@@ -1,0 +1,35 @@
+{
+  "command": [
+    "/home/ubuntu/miniforge3/bin/python3",
+    "-c",
+    "import generate_probe as g; g.MODEL_SPECS['cogvideox2b']['repo']='/home/ubuntu/hf_cache/hub/models--THUDM--CogVideoX-2b/snapshots/1137dacfc2c9c012bed6a0793f4ecf2ca8e7ba01'; g.main()",
+    "--model",
+    "cogvideox2b",
+    "--subset",
+    "curve",
+    "--gt",
+    "/home/ubuntu/nkst_formal_A0_eval_v1/gt_curves.csv",
+    "--out",
+    "/home/ubuntu/nkst_formal_A0_eval_v1/gen_out",
+    "--lora",
+    "/home/ubuntu/nkst_formal_A0_v1/weights",
+    "--samples",
+    "1"
+  ],
+  "environment": {
+    "HF_HOME": "/home/ubuntu/hf_cache",
+    "HF_HUB_OFFLINE": "1",
+    "TRANSFORMERS_OFFLINE": "1"
+  },
+  "task": "probe_generation_only",
+  "weight_sha256": "b6c6cd80253929a9ae83fff8b20cd7981428c177e7837b88f7e6af924643b002",
+  "uploaded_hashes": {
+    "generate_probe.py": "c6e670abab61672161e31e1029c5a7387bd797c5535b9f6add54da6cdcfc14a1",
+    "gt_curves.csv": "45eb0a729bd0cbc7712eec975caa837b2c30235a883b6ba3d0a497f6e1442986",
+    "supervisor.py": "cd2c9854583ae14285f4afb0745a3ce67e4c3be0ca2bfb06572e18979f26dbd9"
+  },
+  "expected_videos": 154,
+  "expected_wheel_videos": 141,
+  "auto_retry": false,
+  "training": false
+}

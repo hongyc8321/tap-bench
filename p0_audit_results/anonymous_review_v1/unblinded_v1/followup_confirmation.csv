@@ -1,0 +1,6 @@
+sample_id,confirmed_direction,confirmed_reverse_jitter,confirmed_change_from,confirmed_change_to,notes
+R01,clockwise,,,,User reaffirmed clockwise observation after comparison.
+R09,clockwise,,,,User reaffirmed clockwise observation after comparison.
+R10,clockwise,,,,User reaffirmed clockwise observation after comparison.
+R12,,yes,,,User confirmed reverse jitter; earlier ambiguity resolved.
+R14,,,clockwise,counterclockwise,User confirmed change direction; prior approximate interval remains 4-6 seconds.

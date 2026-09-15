@@ -1,0 +1,19 @@
+{
+  "wheel_stress_cases": 54,
+  "wheel_accepted": 24,
+  "distractors": [
+    {
+      "kind": "solid_disk",
+      "accepted": true
+    },
+    {
+      "kind": "plain_ring",
+      "accepted": true
+    }
+  ],
+  "validation_frames": 24,
+  "validation_accepted": 21,
+  "detector_sha256": "34f2291a805a4762c6153c63dc5c06770e33bb89c0524f112a803f3d71858279",
+  "seed": 41029,
+  "warning": "Disjoint from manually reviewed/diagnostic cells, but drawn from previously automatically measured pool. Not an unseen dataset."
+}

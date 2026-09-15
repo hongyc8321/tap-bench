@@ -1,0 +1,97 @@
+{
+  "groups": [
+    {
+      "arm": "A0",
+      "n": 141,
+      "selected": 119,
+      "coverage": 0.8439716312056738,
+      "selected_matches_target_k": 0.4117647058823529,
+      "conditional_candidate_error": 0.5798319327731093,
+      "statuses": {
+        "selected": 119,
+        "harmonic_ambiguous": 22
+      }
+    },
+    {
+      "arm": "A3",
+      "n": 141,
+      "selected": 108,
+      "coverage": 0.7659574468085106,
+      "selected_matches_target_k": 0.3888888888888889,
+      "conditional_candidate_error": 0.6388888888888888,
+      "statuses": {
+        "selected": 108,
+        "harmonic_ambiguous": 29,
+        "localization_rejected": 2,
+        "no_harmonic": 2
+      }
+    }
+  ],
+  "synthetic_tests": [
+    {
+      "actual_k": 3,
+      "velocity": -0.25,
+      "selected_k": 3,
+      "direction": "cw",
+      "status": "selected",
+      "passed": true
+    },
+    {
+      "actual_k": 3,
+      "velocity": 0.25,
+      "selected_k": 3,
+      "direction": "ccw",
+      "status": "selected",
+      "passed": true
+    },
+    {
+      "actual_k": 7,
+      "velocity": -0.25,
+      "selected_k": 7,
+      "direction": "cw",
+      "status": "selected",
+      "passed": true
+    },
+    {
+      "actual_k": 7,
+      "velocity": 0.25,
+      "selected_k": 7,
+      "direction": "ccw",
+      "status": "selected",
+      "passed": true
+    },
+    {
+      "actual_k": 13,
+      "velocity": -0.25,
+      "selected_k": 13,
+      "direction": "cw",
+      "status": "selected",
+      "passed": true
+    },
+    {
+      "actual_k": 13,
+      "velocity": 0.25,
+      "selected_k": 13,
+      "direction": "ccw",
+      "status": "selected",
+      "passed": true
+    },
+    {
+      "actual_k": 21,
+      "velocity": -0.25,
+      "selected_k": 21,
+      "direction": "cw",
+      "status": "selected",
+      "passed": true
+    },
+    {
+      "actual_k": 21,
+      "velocity": 0.25,
+      "selected_k": 21,
+      "direction": "ccw",
+      "status": "selected",
+      "passed": true
+    }
+  ],
+  "selection": "max median log1p(SNR), >=4 usable ring-shape measurements, >=4 sign agreement, top margin >=0.10; no GT"
+}

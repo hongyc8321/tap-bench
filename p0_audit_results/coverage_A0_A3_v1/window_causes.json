@@ -1,0 +1,307 @@
+[
+  {
+    "id": "C02",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 33,
+      "low_snr": 5
+    }
+  },
+  {
+    "id": "C02",
+    "arm": "A3",
+    "reasons": {
+      "accepted": 11,
+      "low_snr": 27
+    }
+  },
+  {
+    "id": "C03",
+    "arm": "A0",
+    "reasons": {
+      "low_snr": 11,
+      "accepted": 27
+    }
+  },
+  {
+    "id": "C03",
+    "arm": "A3",
+    "reasons": {
+      "low_snr": 25,
+      "accepted": 13
+    }
+  },
+  {
+    "id": "C04",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 38
+    }
+  },
+  {
+    "id": "C04",
+    "arm": "A3",
+    "reasons": {
+      "low_snr": 24,
+      "accepted": 14
+    }
+  },
+  {
+    "id": "C06",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 30,
+      "low_snr": 8
+    }
+  },
+  {
+    "id": "C06",
+    "arm": "A3",
+    "reasons": {
+      "low_snr": 10,
+      "near_nyquist": 28
+    }
+  },
+  {
+    "id": "C08",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 38
+    }
+  },
+  {
+    "id": "C08",
+    "arm": "A3",
+    "reasons": {
+      "near_nyquist": 12,
+      "accepted": 19,
+      "low_snr": 7
+    }
+  },
+  {
+    "id": "C09",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 20,
+      "near_nyquist": 18
+    }
+  },
+  {
+    "id": "C09",
+    "arm": "A3",
+    "reasons": {
+      "low_snr": 6,
+      "near_nyquist": 26,
+      "accepted": 6
+    }
+  },
+  {
+    "id": "C10",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 34,
+      "near_nyquist": 4
+    }
+  },
+  {
+    "id": "C10",
+    "arm": "A3",
+    "reasons": {
+      "low_snr": 18,
+      "near_nyquist": 2,
+      "accepted": 18
+    }
+  },
+  {
+    "id": "C11",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 32,
+      "near_nyquist": 2,
+      "low_snr": 4
+    }
+  },
+  {
+    "id": "C11",
+    "arm": "A3",
+    "reasons": {
+      "low_snr": 19,
+      "near_nyquist": 4,
+      "accepted": 15
+    }
+  },
+  {
+    "id": "C13",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 28,
+      "near_nyquist": 10
+    }
+  },
+  {
+    "id": "C13",
+    "arm": "A3",
+    "reasons": {
+      "accepted": 18,
+      "competing_directions": 2,
+      "low_snr": 12,
+      "near_nyquist": 6
+    }
+  },
+  {
+    "id": "C15",
+    "arm": "A0",
+    "reasons": {
+      "low_snr": 7,
+      "accepted": 24,
+      "competing_directions": 3,
+      "near_nyquist": 4
+    }
+  },
+  {
+    "id": "C15",
+    "arm": "A3",
+    "reasons": {
+      "low_snr": 20,
+      "accepted": 18
+    }
+  },
+  {
+    "id": "C16",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 38
+    }
+  },
+  {
+    "id": "C16",
+    "arm": "A3",
+    "reasons": {
+      "low_snr": 24,
+      "accepted": 14
+    }
+  },
+  {
+    "id": "C18",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 34,
+      "near_nyquist": 4
+    }
+  },
+  {
+    "id": "C18",
+    "arm": "A3",
+    "reasons": {
+      "near_nyquist": 11,
+      "low_snr": 22,
+      "accepted": 5
+    }
+  },
+  {
+    "id": "C21",
+    "arm": "A0",
+    "reasons": {
+      "near_nyquist": 2,
+      "accepted": 36
+    }
+  },
+  {
+    "id": "C21",
+    "arm": "A3",
+    "reasons": {
+      "near_nyquist": 4,
+      "accepted": 18,
+      "low_snr": 16
+    }
+  },
+  {
+    "id": "C22",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 24,
+      "competing_directions": 2,
+      "near_nyquist": 6,
+      "low_snr": 6
+    }
+  },
+  {
+    "id": "C22",
+    "arm": "A3",
+    "reasons": {
+      "low_snr": 38
+    }
+  },
+  {
+    "id": "C23",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 32,
+      "low_snr": 4,
+      "near_nyquist": 2
+    }
+  },
+  {
+    "id": "C23",
+    "arm": "A3",
+    "reasons": {
+      "low_snr": 24,
+      "competing_directions": 2,
+      "accepted": 12
+    }
+  },
+  {
+    "id": "C24",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 33,
+      "low_snr": 5
+    }
+  },
+  {
+    "id": "C24",
+    "arm": "A3",
+    "reasons": {
+      "competing_directions": 1,
+      "accepted": 23,
+      "low_snr": 12,
+      "near_nyquist": 2
+    }
+  },
+  {
+    "id": "C27",
+    "arm": "A0",
+    "reasons": {
+      "near_nyquist": 12,
+      "accepted": 20,
+      "low_snr": 4,
+      "competing_directions": 2
+    }
+  },
+  {
+    "id": "C27",
+    "arm": "A3",
+    "reasons": {
+      "near_nyquist": 28,
+      "low_snr": 7,
+      "accepted": 3
+    }
+  },
+  {
+    "id": "C29",
+    "arm": "A0",
+    "reasons": {
+      "accepted": 33,
+      "low_snr": 5
+    }
+  },
+  {
+    "id": "C29",
+    "arm": "A3",
+    "reasons": {
+      "low_snr": 31,
+      "accepted": 4,
+      "near_nyquist": 3
+    }
+  }
+]

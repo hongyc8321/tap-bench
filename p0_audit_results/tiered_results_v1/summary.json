@@ -1,0 +1,85 @@
+{
+  "groups": [
+    {
+      "arm": "A0",
+      "n": 141,
+      "tiers": {
+        "tier2_global_only_temporal_unresolved": 48,
+        "tier1_global_and_local_agree": 66,
+        "tier4_low_signal": 11,
+        "tier3_temporal_complex_or_conflicting": 2,
+        "tier5_geometry_or_structure_unresolved": 14
+      },
+      "cumulative": [
+        {
+          "tiers": [
+            "tier1_global_and_local_agree"
+          ],
+          "n": 66,
+          "coverage": 0.46808510638297873,
+          "conditional_candidate_error": 0.6515151515151515
+        },
+        {
+          "tiers": [
+            "tier1_global_and_local_agree",
+            "tier2_global_only_temporal_unresolved"
+          ],
+          "n": 114,
+          "coverage": 0.8085106382978723,
+          "conditional_candidate_error": 0.5964912280701754
+        }
+      ]
+    },
+    {
+      "arm": "A3",
+      "n": 141,
+      "tiers": {
+        "tier4_low_signal": 31,
+        "tier2_global_only_temporal_unresolved": 47,
+        "tier5_geometry_or_structure_unresolved": 18,
+        "tier1_global_and_local_agree": 44,
+        "tier3_temporal_complex_or_conflicting": 1
+      },
+      "cumulative": [
+        {
+          "tiers": [
+            "tier1_global_and_local_agree"
+          ],
+          "n": 44,
+          "coverage": 0.3120567375886525,
+          "conditional_candidate_error": 0.5909090909090909
+        },
+        {
+          "tiers": [
+            "tier1_global_and_local_agree",
+            "tier2_global_only_temporal_unresolved"
+          ],
+          "n": 91,
+          "coverage": 0.6453900709219859,
+          "conditional_candidate_error": 0.4945054945054945
+        }
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "policy": "tier1",
+      "both_available": 37,
+      "delta": 0.0,
+      "ci95": [
+        -0.08108108108108109,
+        0.08108108108108109
+      ]
+    },
+    {
+      "policy": "tier1_plus_tier2",
+      "both_available": 82,
+      "delta": -0.06097560975609756,
+      "ci95": [
+        -0.15853658536585366,
+        0.024390243902439025
+      ]
+    }
+  ],
+  "caveat": "Tier2 is a candidate global sign with unresolved local time evidence; not calibrated medium confidence."
+}

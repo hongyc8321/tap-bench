@@ -1,0 +1,87 @@
+{
+  "status": "candidate_not_physical_benchmark",
+  "groups": [
+    {
+      "arm": "A0",
+      "n": 141,
+      "target_candidate_n": 127,
+      "target_candidate_coverage": 0.900709219858156,
+      "target_candidate_error": 0.5748031496062992,
+      "strong_consensus_n": 42,
+      "strong_consensus_coverage": 0.2978723404255319,
+      "strong_consensus_error": 0.6190476190476191,
+      "evidence_levels": {
+        "target_harmonic_candidate_only": 85,
+        "visible_harmonic_candidate_only": 10,
+        "unresolved": 4,
+        "cross_method_target_consensus": 42
+      }
+    },
+    {
+      "arm": "A3",
+      "n": 141,
+      "target_candidate_n": 102,
+      "target_candidate_coverage": 0.723404255319149,
+      "target_candidate_error": 0.5490196078431373,
+      "strong_consensus_n": 35,
+      "strong_consensus_coverage": 0.24822695035460993,
+      "strong_consensus_error": 0.6285714285714286,
+      "evidence_levels": {
+        "visible_harmonic_candidate_only": 25,
+        "target_harmonic_candidate_only": 67,
+        "unresolved": 14,
+        "cross_method_target_consensus": 35
+      }
+    }
+  ],
+  "pairs": [
+    {
+      "policy": "target",
+      "band": "all",
+      "both_available": 101,
+      "delta": -0.009900990099009901,
+      "ci95": [
+        -0.09900990099009901,
+        0.07920792079207921
+      ]
+    },
+    {
+      "policy": "target",
+      "band": "2+",
+      "both_available": 73,
+      "delta": -0.0136986301369863,
+      "ci95": [
+        -0.1232876712328767,
+        0.1095890410958904
+      ]
+    },
+    {
+      "policy": "strong",
+      "band": "all",
+      "both_available": 25,
+      "delta": 0.0,
+      "ci95": [
+        -0.16,
+        0.16
+      ]
+    },
+    {
+      "policy": "strong",
+      "band": "2+",
+      "both_available": 15,
+      "delta": 0.06666666666666667,
+      "ci95": [
+        -0.13333333333333333,
+        0.26666666666666666
+      ]
+    }
+  ],
+  "local_jitter_metric_released": false,
+  "source_hashes": {
+    "tier": "411726cfdbdd0643f01ff977aabbb18ebd198fa3cf10136c1f6f92b92e927690",
+    "multiring": "007b60724b9c2590f38e8aff61efc27230dbb9cdd5a05f55ddc68d809ea0d236",
+    "adaptive": "0812bf85d57c77b10a8fcf54b792a327c6e9345a93dafd3ab6a0a8b4b66a8cff",
+    "dual": "9e7626238d1a4a3babe1403c34060f3b9188037370847fc8f70902873ce82e2f"
+  },
+  "calibration_hash": "66faa5e3d4a1aa7e7c2c2d3df4010716a45501d30a988701ba15fc6d1a2bcddd"
+}

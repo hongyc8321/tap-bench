@@ -1,0 +1,832 @@
+{
+  "manifests": [
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_closed/seedance20_manifest.csv",
+      "rows": 43,
+      "found": 43,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 69387154,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "frames",
+        "path"
+      ],
+      "unique_cells": 43,
+      "sha256": "38e029154336ba8ab9a675082dcf249e714f736ad2dbd121828de61164424324"
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_closed_test/seedance20_manifest.csv",
+      "rows": 1,
+      "found": 1,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 1206014,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "frames",
+        "path"
+      ],
+      "unique_cells": 1,
+      "sha256": "35705021164e98700e445413ae7d4082110095eb187888f1f89f17deae8a1515"
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_out/cogvideox2b_manifest.csv",
+      "rows": 154,
+      "found": 154,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 33972128,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 154,
+      "sha256": "4d4bab81baef39eaf1577082f8148435836738831562034c364dadda6aa349c9"
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_out/ltxvideo_i2v_manifest.csv",
+      "rows": 30,
+      "found": 30,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 4275061,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 30,
+      "sha256": "8d274e1071d34adc00930cb7bd175a55985100752b943b52ad55461a15eba1d9"
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_out/ltxvideo_manifest.csv",
+      "rows": 154,
+      "found": 154,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 44674928,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 154,
+      "sha256": "b9d19f904f40e3864123f9696b9f6304d0102b3c123fc4c3611b42dcfba096db"
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_out/wan13b_t2v_manifest.csv",
+      "rows": 154,
+      "found": 154,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 56033660,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 154,
+      "sha256": "677367ae499696ca947987d42e244c8fa0e1f8ac6a4266f4a4c70d94b3fc8c07"
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_A0/cogvideox2b_t2v_manifest.csv",
+      "rows": 154,
+      "found": 154,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 28966556,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 154,
+      "sha256": "9f7058965a90a4c7b52dbf9bbcb3f758421a5014af148f943807ed449b6de87b"
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_A1/cogvideox2b_t2v_manifest.csv",
+      "rows": 154,
+      "found": 154,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 31346971,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 154,
+      "sha256": "84eaf88747cfd80d519a8a8ab0a60be8a8d416171723b3dfc8a75827a0cf09c1"
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_A2/cogvideox2b_t2v_manifest.csv",
+      "rows": 154,
+      "found": 154,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 34786194,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 154,
+      "sha256": "4b331c7381b469ad27ac6683044e044a8aae694fcd5dc28966a28712632f6683"
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_A3/cogvideox2b_t2v_manifest.csv",
+      "rows": 154,
+      "found": 154,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 35453895,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 154,
+      "sha256": "18156eb3664c08074c9039f0b38737ec660639c936357520d9d976e587a08ed8"
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_A4/cogvideox2b_t2v_manifest.csv",
+      "rows": 154,
+      "found": 154,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 29493087,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 154,
+      "sha256": "74309c78661f7654f30bdc927062c7cb312da8b027a4c88b2733024d2d0410c5"
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_A4blur/cogvideox2b_t2v_manifest.csv",
+      "rows": 154,
+      "found": 154,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 26869046,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 154,
+      "sha256": "d4ec3c8c719346782e3e085d4b16d1f0bd4a89523d9a90b419868917acc7b2b9"
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_A5/cogvideox2b_t2v_manifest.csv",
+      "rows": 154,
+      "found": 154,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 30716407,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 154,
+      "sha256": "64bc8f539bd1b5306613d1d34cf9c4fcbce3cb542dc36ac87411c37176c68a35"
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_cw_A0/cogvideox2b_t2v_manifest.csv",
+      "rows": 18,
+      "found": 18,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 2454734,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 18,
+      "sha256": "2f274b741c3daba24d788ba98ef4ff04f2720e66d53f2c3fc6f0a9a587d0eb42"
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_cw_A5/cogvideox2b_t2v_manifest.csv",
+      "rows": 18,
+      "found": 18,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 2690764,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 18,
+      "sha256": "b04db742d05f2536f1d6e4c427845c17bc422a170adce4899f368c1345a4fb5a"
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_cw_ORIG/cogvideox2b_t2v_manifest.csv",
+      "rows": 18,
+      "found": 18,
+      "unresolved": 0,
+      "missing_keys": [],
+      "video_bytes": 2774235,
+      "columns": [
+        "model",
+        "mode",
+        "cell_key",
+        "category",
+        "stem",
+        "k",
+        "omega_gt",
+        "v_px_s",
+        "fs_cyc_px",
+        "f_tex_hz",
+        "fps_model",
+        "path"
+      ],
+      "unique_cells": 18,
+      "sha256": "e8bd580fc110f7874afa2155c8b8290a9cd94aa02c13025c437f66a60098c37f"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/eval.log",
+      "bytes": 956
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/eval_gen.py",
+      "bytes": 7350,
+      "sha256": "8853b0cf588dca9e5c0190b5f51f1f4e0eb714c4c2a322e4fd9f30b319f6e118"
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/eval_ltx.log",
+      "bytes": 618
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_closed.log",
+      "bytes": 300
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_closed.py",
+      "bytes": 7454,
+      "sha256": "fc921fd176182c57c7d42a237401f12e7892555c6bfd4d1700719aa440143358"
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_cogvideox2b.log",
+      "bytes": 484950
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_ltxvideo.log",
+      "bytes": 401112
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_ltxvideo_i2v.log",
+      "bytes": 85652
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gen_wan13b.log",
+      "bytes": 488396
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/generate_probe.py",
+      "bytes": 9224,
+      "sha256": "c6e670abab61672161e31e1029c5a7387bd797c5535b9f6add54da6cdcfc14a1"
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/gt_curves.csv",
+      "bytes": 137691,
+      "sha256": "45eb0a729bd0cbc7712eec975caa837b2c30235a883b6ba3d0a497f6e1442986",
+      "rows": 446,
+      "counterclockwise": 360,
+      "clockwise_only": 0
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/launch_remote.sh",
+      "bytes": 207,
+      "sha256": "86f665869d40042ad8ff00c1acbfb404269743ec61d127c75c7699efe02f26a1"
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/measure_angle.py",
+      "bytes": 12006,
+      "sha256": "111a625df129d587863aac2662c43f8b9582affe2c57cf22bd28914555516d2e"
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/requirements.txt",
+      "bytes": 187
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/run_all.log",
+      "bytes": 485502
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/run_all.sh",
+      "bytes": 1234,
+      "sha256": "ac00fbe576023ad50cb24fc95e745a1aa9b69fd0c64dd2b5a97941d607d6321a"
+    },
+    {
+      "path": "/home/ubuntu/phase2_bundle/phase2/run_all2.log",
+      "bytes": 418582
+    },
+    {
+      "path": "/home/ubuntu/phase3/chain_a5.log",
+      "bytes": 346
+    },
+    {
+      "path": "/home/ubuntu/phase3/chain_a5.sh",
+      "bytes": 1090,
+      "sha256": "1b66d12ad669794e44cccb444ecec2b7f7a66659d340de28e18286c6dc99f193"
+    },
+    {
+      "path": "/home/ubuntu/phase3/chain_cw.log",
+      "bytes": 156
+    },
+    {
+      "path": "/home/ubuntu/phase3/chain_cw.sh",
+      "bytes": 794,
+      "sha256": "3cf3df8373139b79455252a2e1d9ea6fb5624e5d6e3b66c7849f28d9e407adbe"
+    },
+    {
+      "path": "/home/ubuntu/phase3/chain_cw_orig.log",
+      "bytes": 125
+    },
+    {
+      "path": "/home/ubuntu/phase3/chain_cw_orig.sh",
+      "bytes": 536,
+      "sha256": "049c74e3fab2e6244285163ef482456039491d2eedf2eaf0395c927a402a825c"
+    },
+    {
+      "path": "/home/ubuntu/phase3/cw_eval_A0.log",
+      "bytes": 73
+    },
+    {
+      "path": "/home/ubuntu/phase3/cw_eval_A5.log",
+      "bytes": 73
+    },
+    {
+      "path": "/home/ubuntu/phase3/cw_eval_ORIG.log",
+      "bytes": 74
+    },
+    {
+      "path": "/home/ubuntu/phase3/diffusers_repo/examples/cogvideo/requirements.txt",
+      "bytes": 131
+    },
+    {
+      "path": "/home/ubuntu/phase3/diffusers_repo/examples/cogvideo/train_cogvideox_lora.py",
+      "bytes": 63345,
+      "sha256": "11b1fbc15f4b4533024418637df8697a925f2a23755e6efbf30d4493cbc54e17"
+    },
+    {
+      "path": "/home/ubuntu/phase3/eval_A0.log",
+      "bytes": 482893
+    },
+    {
+      "path": "/home/ubuntu/phase3/eval_A1.log",
+      "bytes": 483438
+    },
+    {
+      "path": "/home/ubuntu/phase3/eval_A2.log",
+      "bytes": 482903
+    },
+    {
+      "path": "/home/ubuntu/phase3/eval_A3.log",
+      "bytes": 483529
+    },
+    {
+      "path": "/home/ubuntu/phase3/eval_A4.log",
+      "bytes": 966364
+    },
+    {
+      "path": "/home/ubuntu/phase3/eval_A5.log",
+      "bytes": 482906
+    },
+    {
+      "path": "/home/ubuntu/phase3/eval_arm.sh",
+      "bytes": 634,
+      "sha256": "7ac2668bc2939afdb4d0ffb273917655e44c5124d46dce4fe722cfdb46a6b01b"
+    },
+    {
+      "path": "/home/ubuntu/phase3/eval_arm_a4.sh",
+      "bytes": 966,
+      "sha256": "a5242040d2372c0702169737c4873f15df1b9b70cb64d0466f689821626b8103"
+    },
+    {
+      "path": "/home/ubuntu/phase3/eval_cw.py",
+      "bytes": 3616,
+      "sha256": "500c2c9ce6379e0148cadee29cc06e3331dc5120ab4a2b34363e7c97a4eacecb"
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_cw_A0.log",
+      "bytes": 57664
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_cw_A5.log",
+      "bytes": 57658
+    },
+    {
+      "path": "/home/ubuntu/phase3/gen_cw_ORIG.log",
+      "bytes": 57677
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/gt_curves.csv",
+      "bytes": 5798,
+      "sha256": "19a2faac1467e93aac050d96602297da086935ea0e5f6ce4de5375b5de6bdb25",
+      "rows": 18,
+      "counterclockwise": 0,
+      "clockwise_only": 18
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k02_w-0.5_s01_point/meta.json",
+      "bytes": 725
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k02_w-0.5_s02_point/meta.json",
+      "bytes": 732
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k02_w-0.5_s03_point/meta.json",
+      "bytes": 729
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k02_w-1.0_s01_point/meta.json",
+      "bytes": 725
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k02_w-1.0_s02_point/meta.json",
+      "bytes": 730
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k02_w-1.0_s03_point/meta.json",
+      "bytes": 729
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k02_w-1.5_s01_point/meta.json",
+      "bytes": 729
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k02_w-1.5_s02_point/meta.json",
+      "bytes": 724
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k02_w-1.5_s03_point/meta.json",
+      "bytes": 724
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k04_w-0.5_s01_point/meta.json",
+      "bytes": 731
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k04_w-0.5_s02_point/meta.json",
+      "bytes": 729
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k04_w-0.5_s03_point/meta.json",
+      "bytes": 729
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k04_w-0.75_s01_point/meta.json",
+      "bytes": 733
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k04_w-0.75_s02_point/meta.json",
+      "bytes": 733
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k04_w-0.75_s03_point/meta.json",
+      "bytes": 729
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k06_w-0.5_s01_point/meta.json",
+      "bytes": 728
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k06_w-0.5_s02_point/meta.json",
+      "bytes": 727
+    },
+    {
+      "path": "/home/ubuntu/phase3/gt_cw/wheel/k06_w-0.5_s03_point/meta.json",
+      "bytes": 727
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A0/checkpoint-1500/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A0/checkpoint-2000/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A0/pytorch_lora_weights.safetensors",
+      "bytes": 59013712
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A1/checkpoint-1500/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A1/checkpoint-2000/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A1/pytorch_lora_weights.safetensors",
+      "bytes": 59013712
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A2/checkpoint-1500/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A2/checkpoint-2000/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A2/pytorch_lora_weights.safetensors",
+      "bytes": 59013712
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A3/checkpoint-1500/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A3/checkpoint-2000/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A3/pytorch_lora_weights.safetensors",
+      "bytes": 59013712
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A4/checkpoint-1500/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A4/checkpoint-2000/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A4/pytorch_lora_weights.safetensors",
+      "bytes": 59013712
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A5/checkpoint-1500/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A5/checkpoint-2000/pytorch_lora_weights.safetensors",
+      "bytes": 117996224
+    },
+    {
+      "path": "/home/ubuntu/phase3/lora_A5/pytorch_lora_weights.safetensors",
+      "bytes": 59013712
+    },
+    {
+      "path": "/home/ubuntu/phase3/make_a4.log",
+      "bytes": 281
+    },
+    {
+      "path": "/home/ubuntu/phase3/make_a5.log",
+      "bytes": 232
+    },
+    {
+      "path": "/home/ubuntu/phase3/make_cw_probe.py",
+      "bytes": 3585,
+      "sha256": "f279b00416135a6ba5845b2656ee68fca03615234540b97c1654545b43d07fc9"
+    },
+    {
+      "path": "/home/ubuntu/phase3/make_trainset.log",
+      "bytes": 894
+    },
+    {
+      "path": "/home/ubuntu/phase3/make_trainset.py",
+      "bytes": 5673,
+      "sha256": "db5e57d393432d4d66842acf49dd29ed22af21468f438f684b2e8493629de58f"
+    },
+    {
+      "path": "/home/ubuntu/phase3/make_trainset_a4.py",
+      "bytes": 4648,
+      "sha256": "02f53db3b5c7446c26f1970e60e0300e169750438d411c38386cae91d067b101"
+    },
+    {
+      "path": "/home/ubuntu/phase3/make_trainset_a5.py",
+      "bytes": 4593,
+      "sha256": "ec02707bf3c187addbda75032d15d432166b3a6ae2a3ee206c93666e14f66e6d"
+    },
+    {
+      "path": "/home/ubuntu/phase3/phase3_A0.log",
+      "bytes": 1031755
+    },
+    {
+      "path": "/home/ubuntu/phase3/phase3_A1.log",
+      "bytes": 1133079
+    },
+    {
+      "path": "/home/ubuntu/phase3/phase3_A2.log",
+      "bytes": 1034722
+    },
+    {
+      "path": "/home/ubuntu/phase3/phase3_A3.log",
+      "bytes": 1128538
+    },
+    {
+      "path": "/home/ubuntu/phase3/phase3_A4.log",
+      "bytes": 1083457
+    },
+    {
+      "path": "/home/ubuntu/phase3/phase3_A5.log",
+      "bytes": 1078397
+    },
+    {
+      "path": "/home/ubuntu/phase3/train_A0/prompts.txt",
+      "bytes": 79631
+    },
+    {
+      "path": "/home/ubuntu/phase3/train_A1/prompts.txt",
+      "bytes": 213360
+    },
+    {
+      "path": "/home/ubuntu/phase3/train_A2/prompts.txt",
+      "bytes": 79625
+    },
+    {
+      "path": "/home/ubuntu/phase3/train_A3/prompts.txt",
+      "bytes": 224887
+    },
+    {
+      "path": "/home/ubuntu/phase3/train_A4/prompts.txt",
+      "bytes": 195262
+    },
+    {
+      "path": "/home/ubuntu/phase3/train_A5/prompts.txt",
+      "bytes": 155762
+    },
+    {
+      "path": "/home/ubuntu/phase3/train_and_eval.sh",
+      "bytes": 1372,
+      "sha256": "f4ac286f525da16600d59f117daf397a217ba35047a846139656b2f108c512a4"
+    }
+  ],
+  "cache_revisions": [
+    {
+      "model": "/home/ubuntu/hf_cache/hub/models--Wan-AI--Wan2.1-T2V-1.3B-Diffusers",
+      "revisions": [
+        "0fad780a534b6463e45facd96134c9f345acfa5b"
+      ]
+    },
+    {
+      "model": "/home/ubuntu/hf_cache/hub/models--THUDM--CogVideoX-2b",
+      "revisions": [
+        "1137dacfc2c9c012bed6a0793f4ecf2ca8e7ba01"
+      ]
+    },
+    {
+      "model": "/home/ubuntu/hf_cache/hub/models--Lightricks--LTX-Video",
+      "revisions": [
+        "8984fa25007f376c1a299016d0957a37a2f797bb"
+      ]
+    },
+    {
+      "model": "/home/ubuntu/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2",
+      "revisions": [
+        "c9745ed1d9f207416be6d2e6f8de32d1f16199bf"
+      ]
+    }
+  ]
+}

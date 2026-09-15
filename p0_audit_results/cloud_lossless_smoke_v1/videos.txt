@@ -1,0 +1,4 @@
+../videos/B00000_point.avi
+../videos/B00000_shutter180.avi
+../videos/B00001_point.avi
+../videos/B00001_shutter180.avi

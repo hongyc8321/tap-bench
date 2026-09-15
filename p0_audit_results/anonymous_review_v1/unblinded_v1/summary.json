@@ -1,0 +1,115 @@
+{
+  "n": 18,
+  "videos_hash_verified": 18,
+  "raw_labels_sha256": "c1c1dce1f5c499a3bd28ff1201f83b671bea5f3a4d4ec4c27f29978f40df2bb9",
+  "comparable_n": 14,
+  "comparable_disagreements": [
+    "R01",
+    "R02",
+    "R03",
+    "R07",
+    "R08",
+    "R09",
+    "R10",
+    "R12",
+    "R13",
+    "R16"
+  ],
+  "conservative_n": 6,
+  "conservative_disagreements": [
+    "R01",
+    "R09",
+    "R10"
+  ],
+  "sustained_change": [
+    "R14",
+    "R15",
+    "R17"
+  ],
+  "structure_unstable": [
+    "R03",
+    "R06",
+    "R07",
+    "R08",
+    "R11",
+    "R12",
+    "R13",
+    "R15",
+    "R16",
+    "R17"
+  ],
+  "warning_samples": [
+    {
+      "sample_id": "R01",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R02",
+      "warnings": "structure_free_text_unresolved;uncertainty_not_provided;spoke_count_numeric_but_notes_uncertain"
+    },
+    {
+      "sample_id": "R03",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R04",
+      "warnings": "uncertainty_not_provided;spoke_count_numeric_but_notes_uncertain"
+    },
+    {
+      "sample_id": "R05",
+      "warnings": "direction_spelling_normalized;uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R06",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R07",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R08",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R09",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R10",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R11",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R12",
+      "warnings": "uncertainty_not_provided;jitter_yes_but_notes_uncertain"
+    },
+    {
+      "sample_id": "R13",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R14",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R15",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R16",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R17",
+      "warnings": "uncertainty_not_provided"
+    },
+    {
+      "sample_id": "R18",
+      "warnings": "uncertainty_not_provided"
+    }
+  ]
+}

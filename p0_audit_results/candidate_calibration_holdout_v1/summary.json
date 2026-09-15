@@ -1,0 +1,19 @@
+{
+  "cases": 96,
+  "subnyquist_matching_target": 48,
+  "adaptive": {
+    "coverage": 0.8541666666666666,
+    "k_accuracy": 1.0,
+    "direction_accuracy": 0.8048780487804879
+  },
+  "target_multiring": {
+    "coverage": 0.7708333333333334,
+    "direction_accuracy": 0.8108108108108109
+  },
+  "dual_steady": {
+    "n": 0,
+    "direction_accuracy": null
+  },
+  "supernyquist_physical_direction_scored": false,
+  "note": "Holdout is analytic noisy complex-signal simulation with known geometry; not generated-video calibration."
+}

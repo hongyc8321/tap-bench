@@ -1,0 +1,16 @@
+﻿case,passed,window_seconds
+ccw,True,1.0
+ccw,True,1.5
+ccw,True,2.0
+cw,True,1.0
+cw,True,1.5
+cw,True,2.0
+stopped,True,1.0
+stopped,True,1.5
+stopped,True,2.0
+reversal,True,1.0
+reversal,True,1.5
+reversal,True,2.0
+noisy_ccw,True,1.0
+noisy_ccw,True,1.5
+noisy_ccw,True,2.0

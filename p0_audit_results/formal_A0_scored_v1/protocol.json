@@ -1,0 +1,56 @@
+{
+  "config": {
+    "version": "apparent_direction_v1",
+    "snr_min": 5,
+    "signal_std_min": 1e-05,
+    "ring_fraction": [
+      0.25,
+      0.85
+    ],
+    "center_offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        -5,
+        0
+      ],
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        -5
+      ],
+      [
+        0,
+        5
+      ]
+    ],
+    "center_drift_radius_fraction": 0.05,
+    "radius_drift_fraction": 0.05,
+    "geometry_shapes": [
+      "circle",
+      "ellipse"
+    ],
+    "localization_frames": "all",
+    "temporal_window_seconds": 1.5,
+    "window_step_seconds": 0.25,
+    "temporal_min_coverage": 0.5,
+    "temporal_min_each_direction_windows": 2,
+    "seed": 1931,
+    "bootstrap_repetitions": 10000
+  },
+  "code_hashes": {
+    "p0_evaluate_v1.py": "abfeb578ae7d5acd6d1cfc43c5aea9fd79cd9c0026dd71345b010ef5501d5f67",
+    "p0_localization.py": "34f2291a805a4762c6153c63dc5c06770e33bb89c0524f112a803f3d71858279",
+    "p0_localization_exceptions.py": "125c0821d71dfe17397f5c747cc8fc9c166ee21ec2d55d1bad077dab67a0e78a",
+    "phase2/measure_angle.py": "111a625df129d587863aac2662c43f8b9582affe2c57cf22bd28914555516d2e",
+    "p0_windowed.py": "065453c72f42297a9e2749bedbf0c1e6fe63065447779775ad37410dbc82f51b"
+  },
+  "numpy": "2.5.2",
+  "opencv": "5.0.0",
+  "snapshot_index_sha256": "adf1707cd853aba037de4e6e642f8c7eb59991a2b07547b3dce9ffa419b31a87"
+}

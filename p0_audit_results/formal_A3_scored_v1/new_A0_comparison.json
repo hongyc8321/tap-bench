@@ -1,0 +1,38 @@
+{
+  "comparison": "new_A3_minus_new_A0",
+  "pairs": [
+    {
+      "band": "all",
+      "input_pairs": 141,
+      "both_accepted": 37,
+      "a0_errors": 22,
+      "a3_errors": 22,
+      "delta": 0.0,
+      "bootstrap95": [
+        -0.08108108108108109,
+        0.08108108108108109
+      ],
+      "a0_only_accepted": 29,
+      "a3_only_accepted": 7
+    },
+    {
+      "band": "2+",
+      "input_pairs": 100,
+      "both_accepted": 25,
+      "a0_errors": 15,
+      "a3_errors": 16,
+      "delta": 0.04,
+      "bootstrap95": [
+        0.0,
+        0.12
+      ],
+      "a0_only_accepted": 18,
+      "a3_only_accepted": 7
+    }
+  ],
+  "media_verified": 154,
+  "identical_measurement_config": true,
+  "identical_helper_hashes": true,
+  "entrypoint_change": "Added group-name argument only; same decision logic",
+  "training_effect_proven": false
+}

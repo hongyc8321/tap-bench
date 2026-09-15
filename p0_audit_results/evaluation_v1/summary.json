@@ -1,0 +1,193 @@
+[
+  {
+    "arm": "orig",
+    "input_n": 141,
+    "accepted_n": 34,
+    "coverage": 0.24113475177304963,
+    "error_n": 27,
+    "conditional_error_rate": 0.7941176470588235,
+    "unresolved_n": 107,
+    "completion_lower_bound": 0.19148936170212766,
+    "completion_upper_bound": 0.950354609929078,
+    "statuses": {
+      "localization_rejected": 26,
+      "low_signal": 41,
+      "temporal_unresolved": 23,
+      "geometry_direction_unstable": 16,
+      "accepted_apparent_direction": 34,
+      "geometry_temporal_unstable": 1
+    }
+  },
+  {
+    "arm": "A0",
+    "input_n": 141,
+    "accepted_n": 86,
+    "coverage": 0.6099290780141844,
+    "error_n": 74,
+    "conditional_error_rate": 0.8604651162790697,
+    "unresolved_n": 55,
+    "completion_lower_bound": 0.524822695035461,
+    "completion_upper_bound": 0.9148936170212766,
+    "statuses": {
+      "temporal_unresolved": 31,
+      "accepted_apparent_direction": 86,
+      "low_signal": 16,
+      "geometry_direction_unstable": 8
+    }
+  },
+  {
+    "arm": "A1",
+    "input_n": 141,
+    "accepted_n": 80,
+    "coverage": 0.5673758865248227,
+    "error_n": 65,
+    "conditional_error_rate": 0.8125,
+    "unresolved_n": 61,
+    "completion_lower_bound": 0.46099290780141844,
+    "completion_upper_bound": 0.8936170212765957,
+    "statuses": {
+      "low_signal": 24,
+      "accepted_apparent_direction": 80,
+      "temporal_unresolved": 31,
+      "geometry_direction_unstable": 6
+    }
+  },
+  {
+    "arm": "A2",
+    "input_n": 141,
+    "accepted_n": 62,
+    "coverage": 0.4397163120567376,
+    "error_n": 43,
+    "conditional_error_rate": 0.6935483870967742,
+    "unresolved_n": 79,
+    "completion_lower_bound": 0.3049645390070922,
+    "completion_upper_bound": 0.8652482269503546,
+    "statuses": {
+      "low_signal": 28,
+      "accepted_apparent_direction": 62,
+      "localization_rejected": 3,
+      "temporal_unresolved": 37,
+      "geometry_direction_unstable": 10,
+      "temporal_global_disagreement": 1
+    }
+  },
+  {
+    "arm": "A3",
+    "input_n": 141,
+    "accepted_n": 72,
+    "coverage": 0.5106382978723404,
+    "error_n": 48,
+    "conditional_error_rate": 0.6666666666666666,
+    "unresolved_n": 69,
+    "completion_lower_bound": 0.3404255319148936,
+    "completion_upper_bound": 0.8297872340425532,
+    "statuses": {
+      "low_signal": 26,
+      "accepted_apparent_direction": 72,
+      "temporal_unresolved": 35,
+      "geometry_direction_unstable": 7,
+      "temporal_mixed_evidence": 1
+    }
+  },
+  {
+    "arm": "A4",
+    "input_n": 141,
+    "accepted_n": 67,
+    "coverage": 0.475177304964539,
+    "error_n": 50,
+    "conditional_error_rate": 0.746268656716418,
+    "unresolved_n": 74,
+    "completion_lower_bound": 0.3546099290780142,
+    "completion_upper_bound": 0.8794326241134752,
+    "statuses": {
+      "low_signal": 20,
+      "accepted_apparent_direction": 67,
+      "temporal_unresolved": 40,
+      "geometry_direction_unstable": 14
+    }
+  },
+  {
+    "arm": "A4blur",
+    "input_n": 141,
+    "accepted_n": 53,
+    "coverage": 0.375886524822695,
+    "error_n": 37,
+    "conditional_error_rate": 0.6981132075471698,
+    "unresolved_n": 88,
+    "completion_lower_bound": 0.2624113475177305,
+    "completion_upper_bound": 0.8865248226950354,
+    "statuses": {
+      "low_signal": 27,
+      "accepted_apparent_direction": 53,
+      "temporal_unresolved": 45,
+      "geometry_direction_unstable": 15,
+      "temporal_mixed_evidence": 1
+    }
+  },
+  {
+    "arm": "A5",
+    "input_n": 141,
+    "accepted_n": 54,
+    "coverage": 0.3829787234042553,
+    "error_n": 41,
+    "conditional_error_rate": 0.7592592592592593,
+    "unresolved_n": 87,
+    "completion_lower_bound": 0.2907801418439716,
+    "completion_upper_bound": 0.9078014184397163,
+    "statuses": {
+      "geometry_direction_unstable": 15,
+      "low_signal": 20,
+      "temporal_unresolved": 52,
+      "accepted_apparent_direction": 54
+    }
+  },
+  {
+    "arm": "cw_ORIG",
+    "input_n": 18,
+    "accepted_n": 2,
+    "coverage": 0.1111111111111111,
+    "error_n": 0,
+    "conditional_error_rate": 0.0,
+    "unresolved_n": 16,
+    "completion_lower_bound": 0.0,
+    "completion_upper_bound": 0.8888888888888888,
+    "statuses": {
+      "localization_rejected": 10,
+      "accepted_apparent_direction": 2,
+      "low_signal": 3,
+      "temporal_unresolved": 3
+    }
+  },
+  {
+    "arm": "cw_A0",
+    "input_n": 18,
+    "accepted_n": 8,
+    "coverage": 0.4444444444444444,
+    "error_n": 1,
+    "conditional_error_rate": 0.125,
+    "unresolved_n": 10,
+    "completion_lower_bound": 0.05555555555555555,
+    "completion_upper_bound": 0.6111111111111112,
+    "statuses": {
+      "temporal_unresolved": 5,
+      "accepted_apparent_direction": 8,
+      "low_signal": 5
+    }
+  },
+  {
+    "arm": "cw_A5",
+    "input_n": 18,
+    "accepted_n": 7,
+    "coverage": 0.3888888888888889,
+    "error_n": 1,
+    "conditional_error_rate": 0.14285714285714285,
+    "unresolved_n": 11,
+    "completion_lower_bound": 0.05555555555555555,
+    "completion_upper_bound": 0.6666666666666666,
+    "statuses": {
+      "low_signal": 8,
+      "temporal_unresolved": 3,
+      "accepted_apparent_direction": 7
+    }
+  }
+]

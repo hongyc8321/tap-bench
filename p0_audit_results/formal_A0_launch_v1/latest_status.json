@@ -1,0 +1,26 @@
+{
+  "process": {
+    "status": "exited",
+    "supervisor_pid": 33501,
+    "started_at": "2026-09-07T11:54:48.367390+00:00",
+    "timeout_seconds": null,
+    "training_pid": 33502,
+    "exit_code": 0,
+    "ended_at": "2026-09-07T21:44:34.315159+00:00"
+  },
+  "log_tail": [
+    "Model weights saved in /home/ubuntu/nkst_formal_A0_v1/weights/checkpoint-2000/pytorch_lora_weights.safetensors",
+    "09/08/2026 05:44:32 - INFO - accelerate.checkpointing - [RANK 0] Optimizer state saved in /home/ubuntu/nkst_formal_A0_v1/weights/checkpoint-2000/optimizer.bin",
+    "09/08/2026 05:44:32 - INFO - accelerate.checkpointing - [RANK 0] Scheduler state saved in /home/ubuntu/nkst_formal_A0_v1/weights/checkpoint-2000/scheduler.bin",
+    "09/08/2026 05:44:32 - INFO - accelerate.checkpointing - [RANK 0] Sampler state for dataloader 0 saved in /home/ubuntu/nkst_formal_A0_v1/weights/checkpoint-2000/sampler.bin",
+    "09/08/2026 05:44:32 - INFO - accelerate.checkpointing - [RANK 0] Gradient scaler state saved in /home/ubuntu/nkst_formal_A0_v1/weights/checkpoint-2000/scaler.pt",
+    "09/08/2026 05:44:32 - INFO - accelerate.checkpointing - [RANK 0] Random states saved in /home/ubuntu/nkst_formal_A0_v1/weights/checkpoint-2000/random_states_0.pkl",
+    "09/08/2026 05:44:32 - INFO - __main__ - [RANK 0] Saved state to /home/ubuntu/nkst_formal_A0_v1/weights/checkpoint-2000",
+    "",
+    "Steps: 100%|\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588| 2000/2000 [9:22:32<00:00, 16.83s/it, loss=0.0349, lr=0.0001]There are modules in CogVideoXTransformer3DModel that should be kept in float32: []. Casting directly with `to()` can lead to inconsistent results; set `torch_dtype` in `from_pretrained()` instead to keep these modules in float32.",
+    "Model weights saved in /home/ubuntu/nkst_formal_A0_v1/weights/pytorch_lora_weights.safetensors",
+    "",
+    "Steps: 100%|\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588| 2000/2000 [9:22:32<00:00, 16.88s/it, loss=0.0349, lr=0.0001]"
+  ],
+  "gpu": ""
+}

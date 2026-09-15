@@ -1,0 +1,12 @@
+﻿arm,input_n,basic_checks_only,low_signal_primary,direction_disagreement_primary,out_of_frame_primary,basic_coverage,physical_validity
+A0,141,124,17,0,0,0.8794326241134752,not_established
+A1,141,121,17,3,0,0.8581560283687943,not_established
+A2,141,107,32,2,0,0.7588652482269503,not_established
+A3,141,111,25,5,0,0.7872340425531915,not_established
+A4,141,118,19,4,0,0.8368794326241135,not_established
+A4blur,141,114,24,3,0,0.8085106382978723,not_established
+A5,141,116,22,3,0,0.8226950354609929,not_established
+cw_A0,18,13,5,0,0,0.7222222222222222,not_established
+cw_A5,18,12,5,1,0,0.6666666666666666,not_established
+cw_ORIG,18,11,6,1,0,0.6111111111111112,not_established
+orig,141,79,58,3,1,0.5602836879432624,not_established

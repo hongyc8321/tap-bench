@@ -1,0 +1,14 @@
+﻿bracket_end_seconds,bracket_start_seconds,cell_key,from_direction,next_window_center,previous_window_center,to_direction,window_seconds
+3.5,1.75,k02_w1.0_s01_rep0,cw,3.0,2.25,ccw,1.0
+4.5,2.5,k02_w1.0_s01_rep0,ccw,4.0,3.0,cw,1.0
+3.75,1.5,k02_w1.0_s01_rep0,cw,3.0,2.25,ccw,1.5
+4.5,2.25,k02_w1.0_s01_rep0,ccw,3.75,3.0,cw,1.5
+3.25,1.75,k04_w1.0_s01_rep0,ccw,2.75,2.25,cw,1.0
+3.5,1.5,k04_w1.0_s01_rep0,ccw,2.75,2.25,cw,1.5
+3.75,1.25,k04_w1.0_s01_rep0,ccw,2.75,2.25,cw,2.0
+2.0,0.5,k12_w4.0_s01_rep0,cw,1.5,1.0,ccw,1.0
+2.25,0.25,k12_w4.0_s01_rep0,cw,1.5,1.0,ccw,1.5
+2.5,0.0,k12_w4.0_s01_rep0,cw,1.5,1.0,ccw,2.0
+4.0,2.5,k02_w6.0_s01_rep0,ccw,3.5,3.0,cw,1.0
+4.25,2.25,k02_w6.0_s01_rep0,ccw,3.5,3.0,cw,1.5
+4.5,2.0,k02_w6.0_s01_rep0,ccw,3.5,3.0,cw,2.0

@@ -1,0 +1,5 @@
+cell_key,human_start_direction,human_end_direction,human_change_seconds_approx,review_class,notes
+k12_w4.0_s01_rep0,clockwise,counterclockwise,1,visible_direction_change,"User confirmed clockwise then counterclockwise; earlier review noted excess spokes."
+k02_w6.0_s01_rep0,counterclockwise,clockwise,3,visible_direction_change,"User observed sudden change after approximately three seconds."
+k02_w1.0_s01_rep0,,,,camera_and_viewpoint_confounded,"User observed slowly rotating camera viewpoint and wheel flipping over; not a clean rotation reversal."
+k04_w1.0_s01_rep0,counterclockwise,clockwise,3,visible_direction_change,"User observed sudden change after approximately three seconds."

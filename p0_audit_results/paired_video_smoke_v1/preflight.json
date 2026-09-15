@@ -1,0 +1,32 @@
+{
+  "sampling_tests": [
+    {
+      "pair": [
+        "A0",
+        "A2"
+      ],
+      "epoch_rows": 2,
+      "multiplicity": {
+        "B00000": 1,
+        "B00001": 1
+      },
+      "same_seed_order": true
+    },
+    {
+      "pair": [
+        "A1",
+        "A3"
+      ],
+      "epoch_rows": 5,
+      "multiplicity": {
+        "B00000": 4,
+        "B00001": 1
+      },
+      "same_seed_order": true
+    }
+  ],
+  "codec": "mp4v",
+  "actual_torch_loader_executed": false,
+  "training_started": false,
+  "script_sha256": "78af9fd19d3c19563924f654198f8e227b3c6fb9c64f3e2e4951caff4014694f"
+}

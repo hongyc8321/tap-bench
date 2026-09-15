@@ -1,0 +1,5 @@
+model,mode,cell_key,category,stem,k,omega_gt,v_px_s,fs_cyc_px,f_tex_hz,fps_model,path
+fakemodel,t2v,k02_w0.5_s01_rep0,wheel,k02_w0.5_s01,2,0.5,,,1.0,24,/home/rhap/nkst/tap_bench/dryrun/gen_out/fakemodel/t2v/k02_w0.5_s01_rep0.mp4
+fakemodel,t2v,k08_w2.0_s01_rep0,wheel,k08_w2.0_s01,8,2.0,,,16.0,24,/home/rhap/nkst/tap_bench/dryrun/gen_out/fakemodel/t2v/k08_w2.0_s01_rep0.mp4
+fakemodel,t2v,k16_w4.0_s01_rep0,wheel,k16_w4.0_s01,16,4.0,,,64.0,24,/home/rhap/nkst/tap_bench/dryrun/gen_out/fakemodel/t2v/k16_w4.0_s01_rep0.mp4
+fakemodel,t2v,v512_f100_s01_rep0,grating,v512_f100_s01,,,512,0.1,51.2,24,/home/rhap/nkst/tap_bench/dryrun/gen_out/fakemodel/t2v/v512_f100_s01_rep0.mp4

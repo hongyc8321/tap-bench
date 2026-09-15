@@ -1,0 +1,49 @@
+{
+  "base": {
+    "base_id": "B00380",
+    "k": "4",
+    "omega_rev_s": "3.14",
+    "appearance_seed": "1847889483",
+    "fps": "8",
+    "frames": "49",
+    "width": "720",
+    "height": "480",
+    "direction": "counterclockwise"
+  },
+  "appearance": {
+    "center": [
+      360.0,
+      240.0
+    ],
+    "outer": 190.62345612850652,
+    "inner": 183.42345612850653,
+    "hub": 29.481411910890884,
+    "duty": 0.40464503758435716,
+    "fg": 0.19437639536947715,
+    "bg": 0.9075531543893428
+  },
+  "appearance_sha256": "6b7f1e038cd9f8d07c648dfdbe70db328f0a1d84ea2959ce40d31313d0a2e673",
+  "variant": "shutter180",
+  "exposure_seconds": 0.0625,
+  "offsets_seconds": [
+    -0.029296875,
+    -0.025390625,
+    -0.021484375,
+    -0.017578125,
+    -0.013671875,
+    -0.009765625,
+    -0.005859375,
+    -0.001953125,
+    0.001953125,
+    0.005859375,
+    0.009765625,
+    0.013671875,
+    0.017578125,
+    0.021484375,
+    0.025390625,
+    0.029296875
+  ],
+  "frame_pixels_sha256": "79fc9494ea9e5f190ce0b2400d01dfa3791322a23a5581a897e1cb09f6ff1d54",
+  "renderer": "paired_smoke_v1",
+  "temporal_filter": "finite_16_tap_box_not_ideal_antialias"
+}

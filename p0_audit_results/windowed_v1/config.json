@@ -1,0 +1,16 @@
+{
+  "window_seconds": [
+    1,
+    1.5,
+    2
+  ],
+  "step_seconds": 0.25,
+  "snr_min": 5.0,
+  "dominance_min": 1.5,
+  "signal_std_min": 1e-05,
+  "guard": "1/window_seconds <= abs(f) <= fps/2 - 1/window_seconds",
+  "note": "Events bridge uncertain windows; brackets are review intervals, not change timestamps. Overlapping windows are not independent.",
+  "numpy": "2.5.2",
+  "opencv": "5.0.0",
+  "estimator_sha256": "111a625df129d587863aac2662c43f8b9582affe2c57cf22bd28914555516d2e"
+}

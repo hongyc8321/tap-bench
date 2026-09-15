@@ -1,0 +1,9 @@
+{
+  "status": "completed",
+  "delay_seconds": 10800,
+  "training": false,
+  "updated_at": "2026-09-08T23:26:00.540060+00:00",
+  "weight_sha256": "491befacfb0aeb3eecf29f2809ecc1d6574edd1d8c713468a1291af7a1050684",
+  "generated": 154,
+  "generation_exit_code": 0
+}

@@ -1,0 +1,16 @@
+{
+  "ellipse_tests": [
+    {
+      "expected": -0.25,
+      "estimate": -0.249755859375,
+      "passed": true
+    },
+    {
+      "expected": 0.25,
+      "estimate": 0.249755859375,
+      "passed": true
+    }
+  ],
+  "circle_max_difference": 0.0,
+  "locator_sha256": "34f2291a805a4762c6153c63dc5c06770e33bb89c0524f112a803f3d71858279"
+}

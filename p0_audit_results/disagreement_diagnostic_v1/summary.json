@@ -1,0 +1,9 @@
+{
+  "selected": 26,
+  "disagreements": 25,
+  "out_of_frame": 1,
+  "both_low": 13,
+  "either_low": 17,
+  "perturbation_sensitive": 20,
+  "first_frame_fallback": 0
+}

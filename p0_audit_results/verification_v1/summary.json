@@ -1,0 +1,25 @@
+{
+  "total": 43,
+  "selftest_passed": 4,
+  "categories": {
+    "wheel": {
+      "total": 30,
+      "measured": 30,
+      "low_conf": 2,
+      "rr_all": 0.2,
+      "rr_conf": 0.14285714285714285,
+      "stationary_all": 0.06666666666666667
+    },
+    "grating": {
+      "total": 13,
+      "measured": 13,
+      "low_conf": 0,
+      "rr_all": 0.23076923076923078,
+      "rr_conf": 0.23076923076923078,
+      "stationary_all": 0.46153846153846156
+    }
+  },
+  "numpy": "2.5.2",
+  "opencv": "5.0.0",
+  "estimator_sha256": "111a625df129d587863aac2662c43f8b9582affe2c57cf22bd28914555516d2e"
+}

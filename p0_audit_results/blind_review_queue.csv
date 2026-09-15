@@ -1,0 +1,9 @@
+model,frequency_band,cell_key,video_path,path_status,exists,object_present,is_rotating,direction,spokes_correct,camera_stable,measurement_trust,notes
+seedance20,0-0.5,v64_f050_s01_rep0,/home/rhap/nkst/assets_seedance_videos/seedance20/t2v/v64_f050_s01_rep0.mp4,decodable,yes,yes,not_applicable,unclear,not_applicable,yes,,条纹在原地起伏和变形，没有可辨认的整体平移
+seedance20,0-0.5,k08_w0.5_s01_rep0,/home/rhap/nkst/assets_seedance_videos/seedance20/t2v/k08_w0.5_s01_rep0.mp4,decodable,yes,yes,yes,counterclockwise,no,yes,,"slow speed,too many spokes"
+seedance20,0.5-1,k02_w6.0_s01_rep0,/home/rhap/nkst/assets_seedance_videos/seedance20/t2v/k02_w6.0_s01_rep0.mp4,decodable,yes,yes,yes,unclear,yes,yes,,"unstable speed,changed direction"
+seedance20,0.5-1,v64_f200_s01_rep0,/home/rhap/nkst/assets_seedance_videos/seedance20/t2v/v64_f200_s01_rep0.mp4,decodable,yes,yes,not_applicable,right,not_applicable,yes,,整体微弱平移，过程中有变形
+seedance20,1-2,k12_w2.0_s01_rep0,/home/rhap/nkst/assets_seedance_videos/seedance20/t2v/k12_w2.0_s01_rep0.mp4,decodable,yes,yes,yes,unclear,yes,yes,,"slow speed,changed direction"
+seedance20,1-2,v128_f200_s01_rep0,/home/rhap/nkst/assets_seedance_videos/seedance20/t2v/v128_f200_s01_rep0.mp4,decodable,yes,yes,not_applicable,up,not_applicable,yea,,条纹不整齐
+seedance20,2+,k12_w4.0_s01_rep0,/home/rhap/nkst/assets_seedance_videos/seedance20/t2v/k12_w4.0_s01_rep0.mp4,decodable,yes,yes,yes,unclear,no,yes,,"slow speed,too many spokes,changing direction"
+seedance20,2+,k16_w4.0_s01_rep0,/home/rhap/nkst/assets_seedance_videos/seedance20/t2v/k16_w4.0_s01_rep0.mp4,decodable,yes,yes,yes,counterclockwise,no,yes,,速度变化，辐条太多，

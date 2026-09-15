@@ -1,0 +1,11 @@
+model	bin	n	reversal_rate	stationary_rate	mean_speed_ratio
+cogvideox2b/t2v	0-0.25	2	0.00	0.00	2.77
+cogvideox2b/t2v	0.25-0.5	7	0.29	0.00	1.03
+cogvideox2b/t2v	0.5-0.75	6	0.33	0.00	0.62
+cogvideox2b/t2v	0.75-1	4	0.00	0.00	0.52
+cogvideox2b/t2v	1-1.5	8	0.38	0.00	0.35
+cogvideox2b/t2v	1.5-2	13	0.38	0.00	0.22
+cogvideox2b/t2v	2+	95	0.22	0.04	0.09
+
+model	n_conf	overall_reversal_rate
+cogvideox2b/t2v	135	0.24

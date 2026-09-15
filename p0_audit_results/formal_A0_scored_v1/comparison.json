@@ -1,0 +1,46 @@
+[
+  {
+    "baseline": "orig",
+    "band": "all",
+    "input_pairs": 141,
+    "accepted_pairs": 22,
+    "delta": -0.13636363636363635,
+    "ci95": [
+      -0.2727272727272727,
+      0.0
+    ]
+  },
+  {
+    "baseline": "orig",
+    "band": "2+",
+    "input_pairs": 100,
+    "accepted_pairs": 14,
+    "delta": -0.21428571428571427,
+    "ci95": [
+      -0.42857142857142855,
+      0.0
+    ]
+  },
+  {
+    "baseline": "A0",
+    "band": "all",
+    "input_pairs": 141,
+    "accepted_pairs": 61,
+    "delta": -0.14754098360655737,
+    "ci95": [
+      -0.2459016393442623,
+      -0.06557377049180328
+    ]
+  },
+  {
+    "baseline": "A0",
+    "band": "2+",
+    "input_pairs": 100,
+    "accepted_pairs": 40,
+    "delta": -0.125,
+    "ci95": [
+      -0.225,
+      -0.025
+    ]
+  }
+]

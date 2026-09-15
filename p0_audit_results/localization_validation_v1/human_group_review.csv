@@ -1,0 +1,9 @@
+group_id,frame_scope,visible_wheel,center_alignment,outer_radius_fit,raw_observation
+V01,all_three,yes,not_applicable,not_applicable,01都有轮盘
+V02,all_three,,good,good,02都准确
+V03,all_three,,good,good,03都准确
+V04,group_level,,,horizontal_too_large,04轮子不是正圆，上下对齐，左右外圈稍大
+V05,group_level,,good,good,05准确
+V06,group_level,,good,good,06准确
+V07,group_level,,slightly_right,,07红十字稍偏右
+V08,group_level,,good,good,08准确

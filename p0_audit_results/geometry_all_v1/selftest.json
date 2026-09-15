@@ -1,0 +1,12 @@
+[
+  {
+    "expected_sign": -1,
+    "estimate": -0.0029245074984256478,
+    "passed": true
+  },
+  {
+    "expected_sign": 1,
+    "estimate": 0.002924507586579512,
+    "passed": true
+  }
+]

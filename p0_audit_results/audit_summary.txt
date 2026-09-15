@@ -1,0 +1,5 @@
+manifest=assets_seedance_videos/seedance20_manifest.csv
+records=43
+decodable=43
+opencv_available=True
+manual_review_file=blind_review_queue.csv

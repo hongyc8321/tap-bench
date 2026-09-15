@@ -1,0 +1,20 @@
+{
+  "sample_base_cells": 2,
+  "planned_base_cells": 500,
+  "render_seconds": 32.68362890199933,
+  "export_audit_seconds": 1.3887643470006878,
+  "projected_serial_hours": 2.3661384200694453,
+  "sample_png_bytes": 4460097,
+  "sample_mp4_bytes": 2881928,
+  "projected_data_bytes": 1835506250,
+  "recommended_free_bytes": 3671012500,
+  "free_bytes_before": 988827795456,
+  "free_bytes_after": 988819955712,
+  "repeat_render_pixel_hashes_match": true,
+  "estimated_2x_space_margin_available": true,
+  "limitations": [
+    "Only two sample cells; time/space vary with texture and machine load.",
+    "No full dataset or cloud training started.",
+    "Serial projection, not a guaranteed duration."
+  ]
+}

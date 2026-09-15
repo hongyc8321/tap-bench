@@ -1,0 +1,2 @@
+a grayscale wheel with 4 spokes rotating counterclockwise at exactly 8.38 revolutions per second, static camera, sharp focus, no motion blur, white background
+a grayscale wheel with 12 spokes rotating counterclockwise at exactly 2.87 revolutions per second, static camera, sharp focus, no motion blur, white background

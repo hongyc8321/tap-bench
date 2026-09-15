@@ -1,0 +1,96 @@
+{
+  "groups": [
+    {
+      "arm": "A0",
+      "n": 141,
+      "dominant_resolved": 103,
+      "coverage": 0.7304964539007093,
+      "conditional_candidate_error": 0.5922330097087378,
+      "local_behavior": {
+        "unresolved": 55,
+        "not_run": 22,
+        "stable_candidate": 63,
+        "bidirectional_candidate": 1
+      }
+    },
+    {
+      "arm": "A3",
+      "n": 141,
+      "dominant_resolved": 92,
+      "coverage": 0.6524822695035462,
+      "conditional_candidate_error": 0.6304347826086957,
+      "local_behavior": {
+        "unresolved": 54,
+        "not_run": 33,
+        "stable_candidate": 53,
+        "one_opposite_candidate": 1
+      }
+    }
+  ],
+  "synthetic_diagnostics": [
+    {
+      "case": "steady",
+      "short": {
+        "seconds": 1.0,
+        "windows": 21,
+        "coverage": 1.0,
+        "cw": 21,
+        "ccw": 0,
+        "uncertain": 0,
+        "dominant": "cw"
+      },
+      "long": {
+        "seconds": 3.0,
+        "windows": 13,
+        "coverage": 1.0,
+        "cw": 13,
+        "ccw": 0,
+        "uncertain": 0,
+        "dominant": "cw"
+      }
+    },
+    {
+      "case": "reverse",
+      "short": {
+        "seconds": 1.0,
+        "windows": 21,
+        "coverage": 0.9047619047619048,
+        "cw": 10,
+        "ccw": 9,
+        "uncertain": 2,
+        "dominant": "uncertain"
+      },
+      "long": {
+        "seconds": 3.0,
+        "windows": 13,
+        "coverage": 0.9230769230769231,
+        "cw": 6,
+        "ccw": 6,
+        "uncertain": 1,
+        "dominant": "uncertain"
+      }
+    },
+    {
+      "case": "jitter",
+      "short": {
+        "seconds": 1.0,
+        "windows": 21,
+        "coverage": 0.8571428571428572,
+        "cw": 18,
+        "ccw": 0,
+        "uncertain": 3,
+        "dominant": "cw"
+      },
+      "long": {
+        "seconds": 3.0,
+        "windows": 13,
+        "coverage": 1.0,
+        "cw": 13,
+        "ccw": 0,
+        "uncertain": 0,
+        "dominant": "cw"
+      }
+    }
+  ],
+  "caveat": "Long-window dominant and short-window local behavior are separate candidate outputs; neither calibrated as physical truth."
+}

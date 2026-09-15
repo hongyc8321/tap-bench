@@ -1,0 +1,69 @@
+{
+  "total": 1182,
+  "primary_status": {
+    "basic_checks_passed_only": 926,
+    "low_signal": 230,
+    "direction_disagreement": 25,
+    "geometry_out_of_frame": 1
+  },
+  "localization_checked": 34,
+  "perturbation_checked": 26,
+  "extra_ring_checks": 2,
+  "gate_tests_passed": 8,
+  "per_arm": {
+    "A0": {
+      "basic_checks_passed_only": 124,
+      "low_signal": 17
+    },
+    "A1": {
+      "basic_checks_passed_only": 121,
+      "low_signal": 17,
+      "direction_disagreement": 3
+    },
+    "A2": {
+      "low_signal": 32,
+      "basic_checks_passed_only": 107,
+      "direction_disagreement": 2
+    },
+    "A3": {
+      "low_signal": 25,
+      "basic_checks_passed_only": 111,
+      "direction_disagreement": 5
+    },
+    "A4": {
+      "low_signal": 19,
+      "basic_checks_passed_only": 118,
+      "direction_disagreement": 4
+    },
+    "A4blur": {
+      "low_signal": 24,
+      "basic_checks_passed_only": 114,
+      "direction_disagreement": 3
+    },
+    "A5": {
+      "low_signal": 22,
+      "basic_checks_passed_only": 116,
+      "direction_disagreement": 3
+    },
+    "cw_A0": {
+      "basic_checks_passed_only": 13,
+      "low_signal": 5
+    },
+    "cw_A5": {
+      "basic_checks_passed_only": 12,
+      "direction_disagreement": 1,
+      "low_signal": 5
+    },
+    "cw_ORIG": {
+      "basic_checks_passed_only": 11,
+      "low_signal": 6,
+      "direction_disagreement": 1
+    },
+    "orig": {
+      "low_signal": 58,
+      "basic_checks_passed_only": 79,
+      "direction_disagreement": 3,
+      "geometry_out_of_frame": 1
+    }
+  }
+}

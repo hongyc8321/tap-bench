@@ -1,0 +1,8 @@
+{
+  "command": "export HF_HOME=/home/ubuntu/hf_cache HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1; timeout --signal=TERM --kill-after=30s 3600s /home/ubuntu/miniforge3/bin/python3 /home/ubuntu/nkst_vae_profile_v2/vae_resource_check.py --root /home/ubuntu/nkst_vae_profile_v2 > /home/ubuntu/nkst_vae_profile_v2/run.log 2>&1; code=$?; printf \"%s\\n\" \"$code\" > /home/ubuntu/nkst_vae_profile_v2/exit_code.txt; exit \"$code\"",
+  "hashes": {
+    "vae_resource_check.py": "81ab657b1b5ca36f62a2f3533febd9bbf9d8e58af16a898f419bee9ff5bf5f5a",
+    "trainer.py": "c9bde0e0be4eef5072456b025b07593925cdff70f635dd259787d5db871c19cf"
+  },
+  "training": false
+}

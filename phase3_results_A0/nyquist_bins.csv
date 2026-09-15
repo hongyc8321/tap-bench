@@ -1,0 +1,8 @@
+model,bin,n,reversal_rate,stationary_rate,mean_speed_ratio
+cogvideox2b/t2v,0-0.25,2,0.0,0.0,2.699
+cogvideox2b/t2v,0.25-0.5,6,0.333,0.167,0.759
+cogvideox2b/t2v,0.5-0.75,5,0.4,0.0,0.608
+cogvideox2b/t2v,0.75-1,4,0.0,0.0,0.521
+cogvideox2b/t2v,1-1.5,8,0.625,0.0,0.36
+cogvideox2b/t2v,1.5-2,16,0.375,0.0,0.234
+cogvideox2b/t2v,2+,96,0.208,0.052,0.088

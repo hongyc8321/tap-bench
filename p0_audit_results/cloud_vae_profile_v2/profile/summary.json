@@ -1,0 +1,15 @@
+{
+  "status": "completed",
+  "videos_encoded": 500,
+  "seconds": 1666.8254503990001,
+  "cache_bytes": 6739200000,
+  "rss_peak_kib": 8478420,
+  "gpu_peak_allocated": 2600700416,
+  "gpu_peak_reserved": 3353346048,
+  "arm": "A0",
+  "transformer_loaded": false,
+  "optimizer_started": false,
+  "cache_saved_to_disk": false,
+  "trainer_sha256": "c9bde0e0be4eef5072456b025b07593925cdff70f635dd259787d5db871c19cf",
+  "torch": "2.5.1+cu124"
+}

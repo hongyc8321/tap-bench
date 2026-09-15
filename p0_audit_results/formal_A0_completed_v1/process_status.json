@@ -1,0 +1,9 @@
+{
+  "status": "exited",
+  "supervisor_pid": 33501,
+  "started_at": "2026-09-07T11:54:48.367390+00:00",
+  "timeout_seconds": null,
+  "training_pid": 33502,
+  "exit_code": 0,
+  "ended_at": "2026-09-07T21:44:34.315159+00:00"
+}

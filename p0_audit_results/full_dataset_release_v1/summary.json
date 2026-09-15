@@ -1,0 +1,20 @@
+{
+  "base_cells": 500,
+  "unique_videos": 1000,
+  "png_frames": 49000,
+  "opencv_pixel_exact": true,
+  "decord_pixel_exact": true,
+  "codec": "FFV1",
+  "container": "AVI",
+  "four_arm_preflight_passed": true,
+  "list_rows": {
+    "A0": 500,
+    "A1": 1319,
+    "A2": 500,
+    "A3": 1319
+  },
+  "video_bytes": 1043194792,
+  "png_bytes": 1090442079,
+  "training_started": false,
+  "cloud_codec_validation_pending": true
+}

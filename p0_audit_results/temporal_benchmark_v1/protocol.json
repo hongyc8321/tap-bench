@@ -1,0 +1,17 @@
+{
+  "cases": 64,
+  "interval_rows": 12288,
+  "seed_values": [
+    11,
+    29
+  ],
+  "noise_std": 0.008,
+  "geometry": "known center and ring; no localization errors",
+  "label": "velocity on interval [i/fps,(i+1)/fps); negative clockwise",
+  "jitter_seconds": [
+    3,
+    3.25
+  ],
+  "reverse_start_seconds": 3,
+  "warning": "Correlated synthetic intervals, no real-world CI. k4 alias label applies to harmonic, not entire asymmetric texture. Thresholds unchanged."
+}

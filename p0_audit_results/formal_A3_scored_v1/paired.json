@@ -1,0 +1,20 @@
+[
+  {
+    "arm": "formal_A3",
+    "baseline": "A0",
+    "band": "all",
+    "matched_input_n": 0,
+    "both_accepted_n": 0,
+    "delta": null,
+    "bootstrap95": null
+  },
+  {
+    "arm": "formal_A3",
+    "baseline": "A0",
+    "band": "2+",
+    "matched_input_n": 0,
+    "both_accepted_n": 0,
+    "delta": null,
+    "bootstrap95": null
+  }
+]

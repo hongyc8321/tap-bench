@@ -1,0 +1,28 @@
+{
+  "backup": {
+    "files": 1794,
+    "bytes": 449318884,
+    "all_hashes_match": true
+  },
+  "media_record_n": 1668,
+  "decoded_record_n": 1668,
+  "quality_ledger_video_n": 1182,
+  "quality_counts": {
+    "basic_checks_passed_only": 926,
+    "low_signal": 230,
+    "direction_disagreement": 25,
+    "geometry_out_of_frame": 1
+  },
+  "localization_checked_n": 34,
+  "perturbation_checked_n": 26,
+  "physical_reversal_conclusion": "not_established",
+  "training_success": "not_established",
+  "p0_complete": false,
+  "input_hashes": {
+    "quality_ledger_v1/summary.json": "467ebbf71c1cd28c5cbe03400c4665cbb5557f9b275d5d6626b7345e9f3dc375",
+    "cloud_snapshot_v1/verification.json": "f793a489dd81f834fad3cfec9b432a23276c6a49e9676a3673faeff441bb7acc",
+    "snapshot_audit_v2/summary.json": "b1f2edc425ebb48247a43daaabf45bef6f6d3dec8426c7dda90544eaeb961e3a",
+    "temporal_benchmark_v1/protocol.json": "19ad7b6ea3d32fb8cdef73f7a86de8f903899766af22bef6fd6325b4c2370557"
+  },
+  "protocol_sha256": "d6cfc5155aa4e96355213f24c9adc6979c53616ffe14ac92820c2e2d2ba77a7b"
+}

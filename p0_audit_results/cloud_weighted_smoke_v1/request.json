@@ -1,0 +1,13 @@
+{
+  "command": "/home/ubuntu/miniforge3/bin/python3 /home/ubuntu/nkst_weighted_smoke_v1/trainer.py --pretrained_model_name_or_path /home/ubuntu/hf_cache/hub/models--THUDM--CogVideoX-2b/snapshots/1137dacfc2c9c012bed6a0793f4ecf2ca8e7ba01 --revision 1137dacfc2c9c012bed6a0793f4ecf2ca8e7ba01 --instance_data_root /home/ubuntu/nkst_weighted_smoke_v1/data/A0 --caption_column prompts.txt --video_column videos.txt --output_dir /home/ubuntu/nkst_weighted_smoke_v1/weights --height 480 --width 720 --max_num_frames 49 --fps 8 --rank 64 --lora_alpha 128 --learning_rate 1e-4 --max_train_steps 2 --train_batch_size 1 --gradient_accumulation_steps 4 --mixed_precision fp16 --gradient_checkpointing --checkpointing_steps 500 --checkpoints_total_limit 2 --seed 42 --num_validation_videos 0 --enable_slicing --enable_tiling",
+  "uploaded_hashes": {
+    "/home/ubuntu/nkst_weighted_smoke_v1/trainer.py": "e8cb48f737ce661d4a383ed99d9a243feafdc07b466c9dcb7f52d035f39b358d",
+    "/home/ubuntu/nkst_weighted_smoke_v1/data/videos/B00000_point.avi": "6736891cec7eb3e95e2569e348349016c6db5f177f5cdc1a79f36ad72a499033",
+    "/home/ubuntu/nkst_weighted_smoke_v1/data/videos/B00001_point.avi": "5e3e15b4c46f3d63e8c3715249ce35c758bb4e3ac73f2598003c037ff14e5b2a",
+    "/home/ubuntu/nkst_weighted_smoke_v1/data/A0/videos.txt": "63ef764b7d53e7e2441b3ca15afd03598893f18a8fd8ff3645efce5432fccebc",
+    "/home/ubuntu/nkst_weighted_smoke_v1/data/A0/prompts.txt": "2a7aff97098c06a66b64b1ff7263be67b49e8b11f24d6c8e45924e3fbb9a75af",
+    "/home/ubuntu/nkst_weighted_smoke_v1/expected_pixels.json": "3b309958611aa63aa10017f4517b322a46cbc9bdb955c14b030447a1c3301dd7"
+  },
+  "smoke_only": true,
+  "max_train_steps": 2
+}

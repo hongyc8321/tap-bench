@@ -1,0 +1,5 @@
+model,cell_key,category,k,omega_gt,est,f_tex_hz,fps_model,f_ratio,sign_match,speed_ratio,motion,snr,low_conf
+fakemodel,k02_w0.5_s01_rep0,wheel,2,0.5,0.49951171875,1.0,24.0,0.041666666666666664,True,0.9990234375,True,55007.1,False
+fakemodel,k08_w2.0_s01_rep0,wheel,8,2.0,-1.0001220703125,16.0,24.0,0.6666666666666666,False,0.50006103515625,True,51875.2,False
+fakemodel,k16_w4.0_s01_rep0,wheel,16,4.0,-0.50006103515625,64.0,24.0,2.6666666666666665,False,0.1250152587890625,True,14630.7,False
+fakemodel,v512_f100_s01_rep0,grating,,5.12,0.319921875,51.2,24.0,2.1333333333333333,True,0.0624847412109375,True,9287.2,False

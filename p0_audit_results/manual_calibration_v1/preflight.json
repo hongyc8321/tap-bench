@@ -1,0 +1,26 @@
+{
+  "seed": 94021,
+  "paired_cells": 24,
+  "videos": 48,
+  "frequency_quotas": {
+    "0-0.5": 4,
+    "0.5-1": 4,
+    "1-2": 4,
+    "2+": 12
+  },
+  "selected_frequency_counts": {
+    "0-0.5": 4,
+    "0.5-1": 4,
+    "1-2": 4,
+    "2+": 12
+  },
+  "selected_transition_counts": {
+    "A0_only": 10,
+    "both": 7,
+    "neither": 6,
+    "A3_only": 1
+  },
+  "all_copy_hashes_match": true,
+  "selection_did_not_use_candidate_direction_or_error": true,
+  "caveat": "Stratified diagnostic calibration, not prevalence-weighted random model sample."
+}

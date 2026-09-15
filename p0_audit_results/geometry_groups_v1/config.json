@@ -1,0 +1,14 @@
+{
+  "reference_width": 1280,
+  "reference_height": 720,
+  "radial_scale": "height_only_circle",
+  "snr_min": 5.0,
+  "methods": [
+    "scaled_circle",
+    "hough_or_fallback"
+  ],
+  "estimator_sha256": "111a625df129d587863aac2662c43f8b9582affe2c57cf22bd28914555516d2e",
+  "numpy": "2.5.2",
+  "opencv": "5.0.0",
+  "warning": "Hough helper may silently fall back to frame center; zero border violations do not validate target geometry."
+}

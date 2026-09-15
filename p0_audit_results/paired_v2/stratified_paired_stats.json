@@ -1,0 +1,408 @@
+{
+  "A0": {
+    "0-0.5": {
+      "n": 8,
+      "delta_mean": 0.0,
+      "delta_ci": [
+        -0.375,
+        0.375
+      ],
+      "both_conf_n": 1,
+      "both_conf_delta_mean": 0.0,
+      "both_conf_ci": [
+        null,
+        null
+      ]
+    },
+    "0.5-1": {
+      "n": 10,
+      "delta_mean": -0.3,
+      "delta_ci": [
+        -0.6,
+        0.0
+      ],
+      "both_conf_n": 5,
+      "both_conf_delta_mean": -0.2,
+      "both_conf_ci": [
+        -0.6,
+        0.0
+      ]
+    },
+    "1-2": {
+      "n": 23,
+      "delta_mean": -0.13043478260869565,
+      "delta_ci": [
+        -0.34782608695652173,
+        0.08695652173913043
+      ],
+      "both_conf_n": 12,
+      "both_conf_delta_mean": -0.16666666666666666,
+      "both_conf_ci": [
+        -0.5,
+        0.16666666666666666
+      ]
+    },
+    "2+": {
+      "n": 100,
+      "delta_mean": -0.14,
+      "delta_ci": [
+        -0.24,
+        -0.04
+      ],
+      "both_conf_n": 57,
+      "both_conf_delta_mean": -0.08771929824561403,
+      "both_conf_ci": [
+        -0.19298245614035087,
+        0.00043859649122168776
+      ]
+    }
+  },
+  "A1": {
+    "0-0.5": {
+      "n": 8,
+      "delta_mean": 0.0,
+      "delta_ci": [
+        null,
+        null
+      ],
+      "both_conf_n": 1,
+      "both_conf_delta_mean": 0.0,
+      "both_conf_ci": [
+        null,
+        null
+      ]
+    },
+    "0.5-1": {
+      "n": 10,
+      "delta_mean": -0.3,
+      "delta_ci": [
+        -0.6,
+        0.0
+      ],
+      "both_conf_n": 5,
+      "both_conf_delta_mean": -0.2,
+      "both_conf_ci": [
+        -0.6,
+        0.0
+      ]
+    },
+    "1-2": {
+      "n": 23,
+      "delta_mean": -0.043478260869565216,
+      "delta_ci": [
+        -0.21739130434782608,
+        0.13043478260869565
+      ],
+      "both_conf_n": 11,
+      "both_conf_delta_mean": -0.18181818181818182,
+      "both_conf_ci": [
+        -0.45454545454545453,
+        0.0
+      ]
+    },
+    "2+": {
+      "n": 100,
+      "delta_mean": -0.09,
+      "delta_ci": [
+        -0.18,
+        0.0
+      ],
+      "both_conf_n": 57,
+      "both_conf_delta_mean": -0.08771929824561403,
+      "both_conf_ci": [
+        -0.21052631578947367,
+        0.03508771929824561
+      ]
+    }
+  },
+  "A2": {
+    "0-0.5": {
+      "n": 8,
+      "delta_mean": 0.125,
+      "delta_ci": [
+        -0.25,
+        0.5
+      ],
+      "both_conf_n": 1,
+      "both_conf_delta_mean": 0.0,
+      "both_conf_ci": [
+        null,
+        null
+      ]
+    },
+    "0.5-1": {
+      "n": 10,
+      "delta_mean": -0.1,
+      "delta_ci": [
+        -0.4,
+        0.2
+      ],
+      "both_conf_n": 3,
+      "both_conf_delta_mean": 0.0,
+      "both_conf_ci": [
+        null,
+        null
+      ]
+    },
+    "1-2": {
+      "n": 23,
+      "delta_mean": 0.043478260869565216,
+      "delta_ci": [
+        -0.13043478260869565,
+        0.21739130434782608
+      ],
+      "both_conf_n": 10,
+      "both_conf_delta_mean": 0.1,
+      "both_conf_ci": [
+        0.0,
+        0.3
+      ]
+    },
+    "2+": {
+      "n": 100,
+      "delta_mean": 0.01,
+      "delta_ci": [
+        -0.09,
+        0.11
+      ],
+      "both_conf_n": 51,
+      "both_conf_delta_mean": 0.0392156862745098,
+      "both_conf_ci": [
+        -0.0784313725490196,
+        0.1568627450980392
+      ]
+    }
+  },
+  "A3": {
+    "0-0.5": {
+      "n": 8,
+      "delta_mean": 0.125,
+      "delta_ci": [
+        0.0,
+        0.375
+      ],
+      "both_conf_n": 1,
+      "both_conf_delta_mean": 0.0,
+      "both_conf_ci": [
+        null,
+        null
+      ]
+    },
+    "0.5-1": {
+      "n": 10,
+      "delta_mean": 0.0,
+      "delta_ci": [
+        -0.3,
+        0.3
+      ],
+      "both_conf_n": 4,
+      "both_conf_delta_mean": 0.0,
+      "both_conf_ci": [
+        null,
+        null
+      ]
+    },
+    "1-2": {
+      "n": 23,
+      "delta_mean": 0.08695652173913043,
+      "delta_ci": [
+        -0.13043478260869565,
+        0.30434782608695654
+      ],
+      "both_conf_n": 9,
+      "both_conf_delta_mean": 0.0,
+      "both_conf_ci": [
+        null,
+        null
+      ]
+    },
+    "2+": {
+      "n": 100,
+      "delta_mean": 0.02,
+      "delta_ci": [
+        -0.08,
+        0.12
+      ],
+      "both_conf_n": 49,
+      "both_conf_delta_mean": 0.02040816326530612,
+      "both_conf_ci": [
+        -0.08163265306122448,
+        0.12244897959183673
+      ]
+    }
+  },
+  "A4": {
+    "0-0.5": {
+      "n": 8,
+      "delta_mean": -0.125,
+      "delta_ci": [
+        -0.375,
+        0.0
+      ],
+      "both_conf_n": 1,
+      "both_conf_delta_mean": 0.0,
+      "both_conf_ci": [
+        null,
+        null
+      ]
+    },
+    "0.5-1": {
+      "n": 10,
+      "delta_mean": -0.3,
+      "delta_ci": [
+        -0.6,
+        0.0
+      ],
+      "both_conf_n": 5,
+      "both_conf_delta_mean": -0.2,
+      "both_conf_ci": [
+        -0.6,
+        0.0
+      ]
+    },
+    "1-2": {
+      "n": 23,
+      "delta_mean": -0.13043478260869565,
+      "delta_ci": [
+        -0.2608695652173913,
+        0.0
+      ],
+      "both_conf_n": 12,
+      "both_conf_delta_mean": -0.16666666666666666,
+      "both_conf_ci": [
+        -0.4166666666666667,
+        0.0
+      ]
+    },
+    "2+": {
+      "n": 100,
+      "delta_mean": -0.09,
+      "delta_ci": [
+        -0.2,
+        0.02
+      ],
+      "both_conf_n": 55,
+      "both_conf_delta_mean": -0.10909090909090909,
+      "both_conf_ci": [
+        -0.23636363636363636,
+        0.01818181818181818
+      ]
+    }
+  },
+  "A4blur": {
+    "0-0.5": {
+      "n": 8,
+      "delta_mean": 0.125,
+      "delta_ci": [
+        0.0,
+        0.375
+      ],
+      "both_conf_n": 1,
+      "both_conf_delta_mean": 0.0,
+      "both_conf_ci": [
+        null,
+        null
+      ]
+    },
+    "0.5-1": {
+      "n": 10,
+      "delta_mean": -0.3,
+      "delta_ci": [
+        -0.6,
+        0.0
+      ],
+      "both_conf_n": 5,
+      "both_conf_delta_mean": -0.2,
+      "both_conf_ci": [
+        -0.6,
+        0.0
+      ]
+    },
+    "1-2": {
+      "n": 23,
+      "delta_mean": -0.043478260869565216,
+      "delta_ci": [
+        -0.21739130434782608,
+        0.13043478260869565
+      ],
+      "both_conf_n": 10,
+      "both_conf_delta_mean": 0.0,
+      "both_conf_ci": [
+        null,
+        null
+      ]
+    },
+    "2+": {
+      "n": 100,
+      "delta_mean": -0.04,
+      "delta_ci": [
+        -0.15,
+        0.07
+      ],
+      "both_conf_n": 60,
+      "both_conf_delta_mean": -0.08333333333333333,
+      "both_conf_ci": [
+        -0.21666666666666667,
+        0.05
+      ]
+    }
+  },
+  "A5": {
+    "0-0.5": {
+      "n": 8,
+      "delta_mean": 0.125,
+      "delta_ci": [
+        -0.25,
+        0.5
+      ],
+      "both_conf_n": 1,
+      "both_conf_delta_mean": 0.0,
+      "both_conf_ci": [
+        null,
+        null
+      ]
+    },
+    "0.5-1": {
+      "n": 10,
+      "delta_mean": -0.2,
+      "delta_ci": [
+        -0.6,
+        0.2
+      ],
+      "both_conf_n": 5,
+      "both_conf_delta_mean": -0.2,
+      "both_conf_ci": [
+        -0.6,
+        0.0
+      ]
+    },
+    "1-2": {
+      "n": 23,
+      "delta_mean": -0.043478260869565216,
+      "delta_ci": [
+        -0.21739130434782608,
+        0.13043478260869565
+      ],
+      "both_conf_n": 10,
+      "both_conf_delta_mean": -0.2,
+      "both_conf_ci": [
+        -0.5,
+        0.0
+      ]
+    },
+    "2+": {
+      "n": 100,
+      "delta_mean": -0.05,
+      "delta_ci": [
+        -0.15,
+        0.05
+      ],
+      "both_conf_n": 58,
+      "both_conf_delta_mean": -0.10344827586206896,
+      "both_conf_ci": [
+        -0.22413793103448276,
+        0.0
+      ]
+    }
+  }
+}

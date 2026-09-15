@@ -1,0 +1,28 @@
+{
+  "files_hash_verified": 1010,
+  "videos_decoded": 1000,
+  "frames_decoded": 49000,
+  "arm_counts": {
+    "A0": {
+      "rows": 500,
+      "unique_cells": 500
+    },
+    "A1": {
+      "rows": 1319,
+      "unique_cells": 500
+    },
+    "A2": {
+      "rows": 500,
+      "unique_cells": 500
+    },
+    "A3": {
+      "rows": 1319,
+      "unique_cells": 500
+    }
+  },
+  "seconds": 720.5116766500005,
+  "decord": "0.6.0",
+  "vae_encoded": false,
+  "optimizer_started": false,
+  "paired_order_verified": true
+}

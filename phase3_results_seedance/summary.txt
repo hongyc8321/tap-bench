@@ -1,0 +1,10 @@
+model	bin	n	reversal_rate	stationary_rate	mean_speed_ratio
+seedance20/t2v	0-0.25	9	0.33	0.11	0.47
+seedance20/t2v	0.25-0.5	2	0.00	0.50	0.15
+seedance20/t2v	0.5-0.75	10	0.00	0.30	0.17
+seedance20/t2v	1-1.5	9	0.33	0.00	0.16
+seedance20/t2v	1.5-2	1	1.00	0.00	0.10
+seedance20/t2v	2+	10	0.00	0.30	0.07
+
+model	n_conf	overall_reversal_rate
+seedance20/t2v	41	0.17

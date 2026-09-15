@@ -1,0 +1,283 @@
+{
+  "lost": 29,
+  "gained": 7,
+  "lost_reason": {
+    "low_signal": 7,
+    "temporal_unresolved": 18,
+    "localization_rejected": 2,
+    "geometry_direction_unstable": 2
+  },
+  "gained_previous_reason": {
+    "low_signal": 2,
+    "temporal_unresolved": 4,
+    "geometry_direction_unstable": 1
+  },
+  "transitions": [
+    {
+      "A0": "temporal_unresolved",
+      "A3": "low_signal",
+      "n": 13
+    },
+    {
+      "A0": "temporal_unresolved",
+      "A3": "temporal_unresolved",
+      "n": 23
+    },
+    {
+      "A0": "accepted_apparent_direction",
+      "A3": "low_signal",
+      "n": 7
+    },
+    {
+      "A0": "accepted_apparent_direction",
+      "A3": "temporal_unresolved",
+      "n": 18
+    },
+    {
+      "A0": "low_signal",
+      "A3": "geometry_direction_unstable",
+      "n": 2
+    },
+    {
+      "A0": "temporal_unresolved",
+      "A3": "geometry_direction_unstable",
+      "n": 6
+    },
+    {
+      "A0": "temporal_unresolved",
+      "A3": "localization_rejected",
+      "n": 2
+    },
+    {
+      "A0": "low_signal",
+      "A3": "low_signal",
+      "n": 5
+    },
+    {
+      "A0": "accepted_apparent_direction",
+      "A3": "accepted_apparent_direction",
+      "n": 37
+    },
+    {
+      "A0": "low_signal",
+      "A3": "temporal_unresolved",
+      "n": 2
+    },
+    {
+      "A0": "accepted_apparent_direction",
+      "A3": "localization_rejected",
+      "n": 2
+    },
+    {
+      "A0": "low_signal",
+      "A3": "accepted_apparent_direction",
+      "n": 2
+    },
+    {
+      "A0": "temporal_bidirectional_candidate",
+      "A3": "temporal_bidirectional_candidate",
+      "n": 1
+    },
+    {
+      "A0": "geometry_direction_unstable",
+      "A3": "low_signal",
+      "n": 6
+    },
+    {
+      "A0": "temporal_bidirectional_candidate",
+      "A3": "temporal_unresolved",
+      "n": 1
+    },
+    {
+      "A0": "temporal_unresolved",
+      "A3": "accepted_apparent_direction",
+      "n": 4
+    },
+    {
+      "A0": "accepted_apparent_direction",
+      "A3": "geometry_direction_unstable",
+      "n": 2
+    },
+    {
+      "A0": "geometry_direction_unstable",
+      "A3": "temporal_unresolved",
+      "n": 3
+    },
+    {
+      "A0": "geometry_direction_unstable",
+      "A3": "geometry_direction_unstable",
+      "n": 4
+    },
+    {
+      "A0": "geometry_direction_unstable",
+      "A3": "accepted_apparent_direction",
+      "n": 1
+    }
+  ],
+  "sensitivity": {
+    "A0": {
+      "statuses": {
+        "temporal_unresolved": 48,
+        "accepted_apparent_direction": 66,
+        "low_signal": 11,
+        "temporal_bidirectional_candidate": 2,
+        "geometry_direction_unstable": 14
+      },
+      "temporal_reject_coverage": [
+        0.4736842105263158,
+        0.42105263157894735,
+        0.42105263157894735,
+        0.368421052631579,
+        0.21052631578947367,
+        0.052631578947368474,
+        0.0,
+        0.26315789473684215,
+        0.10526315789473684,
+        0.0,
+        0.42105263157894735,
+        0.052631578947368474,
+        0.10526315789473684,
+        0.0,
+        0.0,
+        0.368421052631579,
+        0.0,
+        0.4736842105263158,
+        0.3157894736842105,
+        0.0,
+        0.0,
+        0.0,
+        0.4736842105263158,
+        0.0,
+        0.1578947368421053,
+        0.21052631578947367,
+        0.42105263157894735,
+        0.0,
+        0.0,
+        0.052631578947368474,
+        0.0,
+        0.3157894736842105,
+        0.1578947368421053,
+        0.4736842105263158,
+        0.0,
+        0.052631578947368474,
+        0.052631578947368474,
+        0.4736842105263158,
+        0.10526315789473684,
+        0.1578947368421053,
+        0.052631578947368474,
+        0.0,
+        0.26315789473684215,
+        0.1578947368421053,
+        0.4736842105263158,
+        0.1578947368421053,
+        0.10526315789473684,
+        0.42105263157894735
+      ],
+      "low_signal_min_snrs": [
+        2.4473750736487236,
+        3.0622369622514025,
+        4.724008529425586,
+        3.189052550631744,
+        3.9539439181346845,
+        3.8348992377530156,
+        3.629758370958071,
+        3.879226807022732,
+        2.3338548806382406,
+        2.133841265251254,
+        4.05887513024755
+      ]
+    },
+    "A3": {
+      "statuses": {
+        "low_signal": 31,
+        "temporal_unresolved": 47,
+        "geometry_direction_unstable": 14,
+        "localization_rejected": 4,
+        "accepted_apparent_direction": 44,
+        "temporal_bidirectional_candidate": 1
+      },
+      "temporal_reject_coverage": [
+        0.052631578947368474,
+        0.26315789473684215,
+        0.26315789473684215,
+        0.1578947368421053,
+        0.0,
+        0.42105263157894735,
+        0.052631578947368474,
+        0.21052631578947367,
+        0.3157894736842105,
+        0.4736842105263158,
+        0.0,
+        0.0,
+        0.4736842105263158,
+        0.0,
+        0.1578947368421053,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.21052631578947367,
+        0.4736842105263158,
+        0.0,
+        0.1578947368421053,
+        0.3157894736842105,
+        0.368421052631579,
+        0.0,
+        0.4736842105263158,
+        0.42105263157894735,
+        0.3157894736842105,
+        0.3157894736842105,
+        0.0,
+        0.10526315789473684,
+        0.4736842105263158,
+        0.0,
+        0.0,
+        0.3157894736842105,
+        0.052631578947368474,
+        0.0,
+        0.4736842105263158,
+        0.052631578947368474,
+        0.052631578947368474,
+        0.0,
+        0.0,
+        0.052631578947368474,
+        0.4736842105263158,
+        0.3157894736842105
+      ],
+      "low_signal_min_snrs": [
+        3.481350379812782,
+        2.5984228933847,
+        4.35016662123284,
+        2.5196408267391726,
+        4.332796698035978,
+        3.316181369341159,
+        2.0676597141360378,
+        4.6823598920054295,
+        3.3378352516987544,
+        4.161509538730595,
+        2.4028941050509673,
+        4.606548794475051,
+        4.3884012664280965,
+        3.687553513798657,
+        4.2772919436958645,
+        4.5223527991560095,
+        3.3740788465660074,
+        3.273329276712282,
+        2.3722353029469567,
+        3.1788935244527865,
+        3.343126300740931,
+        4.633838664075103,
+        3.088041504927618,
+        3.3642967085245403,
+        4.203157608771761,
+        3.5259024667305128,
+        3.44089446542995,
+        3.682415560398212,
+        1.8789875180892972,
+        3.9995203301441005,
+        4.920869098408451
+      ]
+    }
+  }
+}

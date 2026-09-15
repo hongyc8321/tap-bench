@@ -1,0 +1,65 @@
+{
+  "groups": [
+    {
+      "arm": "A0",
+      "n": 141,
+      "consensus": 127,
+      "coverage": 0.900709219858156,
+      "conditional_candidate_error": 0.5748031496062992,
+      "localization_rejected": 0
+    },
+    {
+      "arm": "A3",
+      "n": 141,
+      "consensus": 102,
+      "coverage": 0.723404255319149,
+      "conditional_candidate_error": 0.5490196078431373,
+      "localization_rejected": 2
+    }
+  ],
+  "synthetic_tests": [
+    {
+      "target": -0.25,
+      "corrupted_rings": 0,
+      "expected": "cw",
+      "observed": "cw",
+      "passed": true
+    },
+    {
+      "target": -0.25,
+      "corrupted_rings": 1,
+      "expected": "cw",
+      "observed": "cw",
+      "passed": true
+    },
+    {
+      "target": -0.25,
+      "corrupted_rings": 2,
+      "expected": "ccw",
+      "observed": "ccw",
+      "passed": true
+    },
+    {
+      "target": 0.25,
+      "corrupted_rings": 0,
+      "expected": "ccw",
+      "observed": "ccw",
+      "passed": true
+    },
+    {
+      "target": 0.25,
+      "corrupted_rings": 1,
+      "expected": "ccw",
+      "observed": "ccw",
+      "passed": true
+    },
+    {
+      "target": 0.25,
+      "corrupted_rings": 2,
+      "expected": "cw",
+      "observed": "cw",
+      "passed": true
+    }
+  ],
+  "caveat": "Majority consensus is deterministic but not calibrated against independent generated-video truth."
+}

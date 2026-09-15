@@ -1,0 +1,195 @@
+{
+  "arms": [
+    {
+      "arm": "A0",
+      "dataset_length": 2,
+      "unique_video_decodes": [
+        {
+          "video": "B00001_point.mp4",
+          "shape": [
+            49,
+            3,
+            480,
+            720
+          ],
+          "dtype": "torch.float32",
+          "minimum": -0.9215686321258545,
+          "maximum": 0.9058823585510254
+        },
+        {
+          "video": "B00000_point.mp4",
+          "shape": [
+            49,
+            3,
+            480,
+            720
+          ],
+          "dtype": "torch.float32",
+          "minimum": -1.0,
+          "maximum": 0.9058823585510254
+        }
+      ],
+      "sample_indices": [
+        0,
+        1
+      ],
+      "base_order": [
+        "B00001",
+        "B00000"
+      ],
+      "multiplicity": {
+        "B00001": 1,
+        "B00000": 1
+      }
+    },
+    {
+      "arm": "A1",
+      "dataset_length": 5,
+      "unique_video_decodes": [
+        {
+          "video": "B00001_point.mp4",
+          "shape": [
+            49,
+            3,
+            480,
+            720
+          ],
+          "dtype": "torch.float32",
+          "minimum": -0.9215686321258545,
+          "maximum": 0.9058823585510254
+        },
+        {
+          "video": "B00000_point.mp4",
+          "shape": [
+            49,
+            3,
+            480,
+            720
+          ],
+          "dtype": "torch.float32",
+          "minimum": -1.0,
+          "maximum": 0.9058823585510254
+        }
+      ],
+      "sample_indices": [
+        1,
+        3,
+        2,
+        4,
+        0
+      ],
+      "base_order": [
+        "B00000",
+        "B00000",
+        "B00000",
+        "B00000",
+        "B00001"
+      ],
+      "multiplicity": {
+        "B00000": 4,
+        "B00001": 1
+      }
+    },
+    {
+      "arm": "A2",
+      "dataset_length": 2,
+      "unique_video_decodes": [
+        {
+          "video": "B00001_shutter180.mp4",
+          "shape": [
+            49,
+            3,
+            480,
+            720
+          ],
+          "dtype": "torch.float32",
+          "minimum": -0.5529412031173706,
+          "maximum": 0.8509804010391235
+        },
+        {
+          "video": "B00000_shutter180.mp4",
+          "shape": [
+            49,
+            3,
+            480,
+            720
+          ],
+          "dtype": "torch.float32",
+          "minimum": -0.545098066329956,
+          "maximum": 0.8352941274642944
+        }
+      ],
+      "sample_indices": [
+        0,
+        1
+      ],
+      "base_order": [
+        "B00001",
+        "B00000"
+      ],
+      "multiplicity": {
+        "B00001": 1,
+        "B00000": 1
+      }
+    },
+    {
+      "arm": "A3",
+      "dataset_length": 5,
+      "unique_video_decodes": [
+        {
+          "video": "B00001_shutter180.mp4",
+          "shape": [
+            49,
+            3,
+            480,
+            720
+          ],
+          "dtype": "torch.float32",
+          "minimum": -0.5529412031173706,
+          "maximum": 0.8509804010391235
+        },
+        {
+          "video": "B00000_shutter180.mp4",
+          "shape": [
+            49,
+            3,
+            480,
+            720
+          ],
+          "dtype": "torch.float32",
+          "minimum": -0.545098066329956,
+          "maximum": 0.8352941274642944
+        }
+      ],
+      "sample_indices": [
+        1,
+        3,
+        2,
+        4,
+        0
+      ],
+      "base_order": [
+        "B00000",
+        "B00000",
+        "B00000",
+        "B00000",
+        "B00001"
+      ],
+      "multiplicity": {
+        "B00000": 4,
+        "B00001": 1
+      }
+    }
+  ],
+  "trainer_sha256": "c9bde0e0be4eef5072456b025b07593925cdff70f635dd259787d5db871c19cf",
+  "dataset_execution": "unchanged class extracted by AST; not whole trainer import",
+  "sampler_execution": "real CPU DataLoader with explicitly injected index sentinels, not VAE latents",
+  "generator_expression": "torch.Generator().manual_seed(args.seed) if args.seed is not None else None",
+  "versions": {
+    "torch": "2.14.0+cpu",
+    "decord": "0.6.0"
+  },
+  "vae_executed": false,
+  "accelerate_executed": false,
+  "training_started": false
+}

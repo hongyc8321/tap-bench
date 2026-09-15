@@ -1,0 +1,22 @@
+{
+  "cases": [
+    {
+      "base_id": "B00001",
+      "frames_per_variant": 49,
+      "frames_differing": 49,
+      "static_regions_identical": true,
+      "paired_appearance_identical": true
+    },
+    {
+      "base_id": "B00000",
+      "frames_per_variant": 49,
+      "frames_differing": 49,
+      "static_regions_identical": true,
+      "paired_appearance_identical": true
+    }
+  ],
+  "renderer_sha256": "5ff502f83af7115211969a7c0ec51ab00579400dc934837572ec1336c312c0ee",
+  "base_plan_sha256": "a53199d2587d12976e53548c00deb10593a9b55c434990850f5e6623e9a8918a",
+  "workers": 2,
+  "status": "smoke_only_no_training_video_export"
+}

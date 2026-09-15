@@ -1,0 +1,104 @@
+{
+  "total": 1668,
+  "decoded": 44,
+  "fps_mismatches": 0,
+  "cw": {},
+  "cell_set_vs_A0": {
+    "phase2_bundle/phase2/gen_closed/seedance20_manifest.csv": {
+      "n": 43,
+      "shared": 43,
+      "missing": 111,
+      "extra": 0
+    },
+    "phase2_bundle/phase2/gen_closed_test/seedance20_manifest.csv": {
+      "n": 1,
+      "shared": 1,
+      "missing": 153,
+      "extra": 0
+    },
+    "phase2_bundle/phase2/gen_out/cogvideox2b_manifest.csv": {
+      "n": 154,
+      "shared": 154,
+      "missing": 0,
+      "extra": 0
+    },
+    "phase2_bundle/phase2/gen_out/ltxvideo_i2v_manifest.csv": {
+      "n": 30,
+      "shared": 30,
+      "missing": 124,
+      "extra": 0
+    },
+    "phase2_bundle/phase2/gen_out/ltxvideo_manifest.csv": {
+      "n": 154,
+      "shared": 154,
+      "missing": 0,
+      "extra": 0
+    },
+    "phase2_bundle/phase2/gen_out/wan13b_t2v_manifest.csv": {
+      "n": 154,
+      "shared": 154,
+      "missing": 0,
+      "extra": 0
+    },
+    "phase3/gen_A0/cogvideox2b_t2v_manifest.csv": {
+      "n": 154,
+      "shared": 154,
+      "missing": 0,
+      "extra": 0
+    },
+    "phase3/gen_A1/cogvideox2b_t2v_manifest.csv": {
+      "n": 154,
+      "shared": 154,
+      "missing": 0,
+      "extra": 0
+    },
+    "phase3/gen_A2/cogvideox2b_t2v_manifest.csv": {
+      "n": 154,
+      "shared": 154,
+      "missing": 0,
+      "extra": 0
+    },
+    "phase3/gen_A3/cogvideox2b_t2v_manifest.csv": {
+      "n": 154,
+      "shared": 154,
+      "missing": 0,
+      "extra": 0
+    },
+    "phase3/gen_A4/cogvideox2b_t2v_manifest.csv": {
+      "n": 154,
+      "shared": 154,
+      "missing": 0,
+      "extra": 0
+    },
+    "phase3/gen_A4blur/cogvideox2b_t2v_manifest.csv": {
+      "n": 154,
+      "shared": 154,
+      "missing": 0,
+      "extra": 0
+    },
+    "phase3/gen_A5/cogvideox2b_t2v_manifest.csv": {
+      "n": 154,
+      "shared": 154,
+      "missing": 0,
+      "extra": 0
+    },
+    "phase3/gen_cw_A0/cogvideox2b_t2v_manifest.csv": {
+      "n": 18,
+      "shared": 0,
+      "missing": 154,
+      "extra": 18
+    },
+    "phase3/gen_cw_A5/cogvideox2b_t2v_manifest.csv": {
+      "n": 18,
+      "shared": 0,
+      "missing": 154,
+      "extra": 18
+    },
+    "phase3/gen_cw_ORIG/cogvideox2b_t2v_manifest.csv": {
+      "n": 18,
+      "shared": 0,
+      "missing": 154,
+      "extra": 18
+    }
+  }
+}

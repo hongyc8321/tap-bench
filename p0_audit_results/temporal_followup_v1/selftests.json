@@ -1,0 +1,18 @@
+[
+  {
+    "case": "cw",
+    "passed": true
+  },
+  {
+    "case": "reversal",
+    "passed": true
+  },
+  {
+    "case": "jitter",
+    "passed": true
+  },
+  {
+    "case": "zero_amplitude",
+    "passed": true
+  }
+]

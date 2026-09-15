@@ -1,0 +1,42 @@
+[
+  {
+    "sample_id": "R12",
+    "method": "scaled_circle",
+    "counts": {
+      "cw": 0,
+      "ccw": 0,
+      "uncertain": 48
+    },
+    "ccw_intervals": []
+  },
+  {
+    "sample_id": "R12",
+    "method": "hough_or_fallback",
+    "counts": {
+      "cw": 0,
+      "ccw": 0,
+      "uncertain": 48
+    },
+    "ccw_intervals": []
+  },
+  {
+    "sample_id": "R14",
+    "method": "scaled_circle",
+    "counts": {
+      "cw": 4,
+      "ccw": 0,
+      "uncertain": 44
+    },
+    "ccw_intervals": []
+  },
+  {
+    "sample_id": "R14",
+    "method": "hough_or_fallback",
+    "counts": {
+      "cw": 21,
+      "ccw": 0,
+      "uncertain": 27
+    },
+    "ccw_intervals": []
+  }
+]

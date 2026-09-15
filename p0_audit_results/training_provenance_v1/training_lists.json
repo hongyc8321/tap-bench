@@ -1,0 +1,123 @@
+[
+  {
+    "arm": "A0",
+    "list_rows": 500,
+    "unique_video_paths": 500,
+    "unique_names_without_dup_suffix": 500,
+    "unique_motion_parameter_tuples": 471,
+    "unparsed_prompt_lines": [],
+    "direction_counts": {
+      "counterclockwise": 500
+    },
+    "speed_min": 0.62,
+    "speed_max": 8.49,
+    "exact_probe_speed_rows": 0,
+    "within_0p1_probe_speed_rows": 5,
+    "completed_2000_logged": true,
+    "final_weight_save_logged": true,
+    "cuda_oom_logged": true,
+    "prompts_sha256": "14e0ebd045b76ab195c7af2c961dca9b73972f7df589c726a6c012ea2772012c",
+    "videos_list_sha256": "2397a97a75a0abc8145fcb9857cdffabace2eeb7aa9a3c942db93e65b6c4bc42"
+  },
+  {
+    "arm": "A1",
+    "list_rows": 1340,
+    "unique_video_paths": 1340,
+    "unique_names_without_dup_suffix": 500,
+    "unique_motion_parameter_tuples": 466,
+    "unparsed_prompt_lines": [],
+    "direction_counts": {
+      "counterclockwise": 1340
+    },
+    "speed_min": 0.61,
+    "speed_max": 8.49,
+    "exact_probe_speed_rows": 0,
+    "within_0p1_probe_speed_rows": 4,
+    "completed_2000_logged": true,
+    "final_weight_save_logged": true,
+    "cuda_oom_logged": true,
+    "prompts_sha256": "1544f0a22c8d62b0d712c350c3933af9bbb382399c9bfd201b495cf21fd6d7d4",
+    "videos_list_sha256": "8aa422424193638a918a944df629bdd6dc13d5fd724b1e4d7287b7def8484e60"
+  },
+  {
+    "arm": "A2",
+    "list_rows": 500,
+    "unique_video_paths": 500,
+    "unique_names_without_dup_suffix": 500,
+    "unique_motion_parameter_tuples": 468,
+    "unparsed_prompt_lines": [],
+    "direction_counts": {
+      "counterclockwise": 500
+    },
+    "speed_min": 0.61,
+    "speed_max": 8.5,
+    "exact_probe_speed_rows": 0,
+    "within_0p1_probe_speed_rows": 2,
+    "completed_2000_logged": true,
+    "final_weight_save_logged": true,
+    "cuda_oom_logged": true,
+    "prompts_sha256": "032e251b31369ba0bd9df6aeab0dce673be8b0374b9878c094ad19b5fec0d54f",
+    "videos_list_sha256": "fbf01bc5c316b69824b97bc2074648e4dc50a0ad9469df5938055ba05256e338"
+  },
+  {
+    "arm": "A3",
+    "list_rows": 1412,
+    "unique_video_paths": 1412,
+    "unique_names_without_dup_suffix": 500,
+    "unique_motion_parameter_tuples": 471,
+    "unparsed_prompt_lines": [],
+    "direction_counts": {
+      "counterclockwise": 1412
+    },
+    "speed_min": 0.61,
+    "speed_max": 8.5,
+    "exact_probe_speed_rows": 0,
+    "within_0p1_probe_speed_rows": 6,
+    "completed_2000_logged": true,
+    "final_weight_save_logged": true,
+    "cuda_oom_logged": true,
+    "prompts_sha256": "8c901f6062a936600a4ab7e883c3fa834a7b13f67c21b37920320f0066cbe61e",
+    "videos_list_sha256": "eb0000dd41bbc2535e44a051754d0663c29626687e151f152679fbe6eb2bf47d"
+  },
+  {
+    "arm": "A4",
+    "list_rows": 1000,
+    "unique_video_paths": 1000,
+    "unique_names_without_dup_suffix": 1000,
+    "unique_motion_parameter_tuples": 471,
+    "unparsed_prompt_lines": [],
+    "direction_counts": {
+      "counterclockwise": 1000
+    },
+    "speed_min": 0.62,
+    "speed_max": 8.49,
+    "exact_probe_speed_rows": 0,
+    "within_0p1_probe_speed_rows": 10,
+    "completed_2000_logged": true,
+    "final_weight_save_logged": true,
+    "cuda_oom_logged": true,
+    "prompts_sha256": "ca494a14b533b958231b4cdb693d49069ef1294db08ee97db84bb02503bd834a",
+    "videos_list_sha256": "68ce317b24d6db453ac286b3390b5af956cb519d981849d1dce062789b082a8c"
+  },
+  {
+    "arm": "A5",
+    "list_rows": 1000,
+    "unique_video_paths": 1000,
+    "unique_names_without_dup_suffix": 1000,
+    "unique_motion_parameter_tuples": 942,
+    "unparsed_prompt_lines": [],
+    "direction_counts": {
+      "counterclockwise": 500,
+      "clockwise": 500
+    },
+    "speed_min": 0.62,
+    "speed_max": 8.49,
+    "exact_probe_speed_rows": 0,
+    "within_0p1_probe_speed_rows": 10,
+    "completed_2000_logged": true,
+    "final_weight_save_logged": true,
+    "cuda_oom_logged": true,
+    "prompts_sha256": "b3a0e5e174b5ddb6c7c6e01ab19adba992346b3bc3051f50dce91753b42390ad",
+    "videos_list_sha256": "fdc11f972c4abfb4ea4d4f9c6c01875a2b0791e3de90ed5a221988ef3c71a5df"
+  }
+]
